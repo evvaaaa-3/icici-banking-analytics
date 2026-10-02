@@ -128,8 +128,4 @@ Association-rule definitions: https://docs.oracle.com/en/database/oracle/oracle-
 - Build manifest and static snapshot integrity were checked.
 - **Browser rendering, mobile layout, and UI interactions were not verified:** the browser preview timed out in this environment. Review those in the included preview before treating the project as fully visually checked.
 
-## Portfolio positioning
 
-Use the title **Banking Product Affinity & Loan Portfolio Analytics — ICICI-themed Case Study**. Describe it as an independent project, not an ICICI engagement or internship. A defensible summary: “Built a React banking analytics dashboard on 2,800 synthetic loan applications and 1,800 customer baskets, implementing Apriori product affinity analysis with support, confidence and lift, plus weighted loan portfolio metrics and drill-downs.”
-
-Do not add invented revenue growth, conversion improvement, or business-impact percentages to your resume.
