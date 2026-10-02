@@ -3,3 +3,6 @@ node_modules/
 .data-app-offline/
 *.log
 # Keep dist/ in version control: Vercel serves the verified static build.
+
+.venv/
+__pycache__/
