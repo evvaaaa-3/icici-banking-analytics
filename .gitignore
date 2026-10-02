@@ -1,0 +1,5 @@
+node_modules/
+.vercel/
+.data-app-offline/
+*.log
+# Keep dist/ in version control: Vercel serves the verified static build.

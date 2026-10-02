@@ -1,0 +1,1801 @@
+customerId,region,segment,annualIncome,creditScore,contactConsent,products,productCount,snapshotDate
+DEMO-C00001,North,Self-employed,2346000,708,False,Demat account | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00002,South,Business,1139000,713,True,Auto loan | Current account,2,2026-03-31
+DEMO-C00003,West,Self-employed,1146000,586,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00004,West,Business,2154000,810,True,Business loan | Credit card | Current account | Demat account | Savings account,5,2026-03-31
+DEMO-C00005,South,Self-employed,1766000,824,False,Auto loan | Business loan | Credit card | Demat account | Home loan | Mutual fund | Savings account | Term insurance,8,2026-03-31
+DEMO-C00006,West,Salaried,483000,839,False,Auto loan | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00007,East,Business,603000,786,True,Auto loan | Term insurance,2,2026-03-31
+DEMO-C00008,South,Salaried,2245000,732,True,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00009,South,Business,2271000,760,True,Current account | Personal loan | Savings account,3,2026-03-31
+DEMO-C00010,West,Self-employed,1699000,846,True,Demat account | Personal loan | Savings account,3,2026-03-31
+DEMO-C00011,West,Salaried,440000,747,False,Auto loan | Credit card | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00012,South,Salaried,1918000,640,False,Mutual fund | Savings account,2,2026-03-31
+DEMO-C00013,West,Salaried,1254000,829,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00014,North,Salaried,1019000,849,True,Auto loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00015,West,Self-employed,1329000,569,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00016,West,Self-employed,926000,719,True,Home loan,1,2026-03-31
+DEMO-C00017,South,Salaried,1612000,595,True,Savings account,1,2026-03-31
+DEMO-C00018,North,Salaried,935000,567,True,Credit card | Demat account | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00019,South,Salaried,735000,583,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00020,South,Salaried,1128000,841,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00021,West,Salaried,1663000,808,False,Savings account,1,2026-03-31
+DEMO-C00022,North,Salaried,450000,824,True,Credit card | Fixed deposit | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00023,South,Business,2227000,810,True,Demat account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C00024,South,Salaried,1080000,747,True,Auto loan | Business loan | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00025,West,Salaried,1051000,751,False,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00026,North,Self-employed,935000,749,False,Auto loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C00027,North,Salaried,2234000,698,False,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00028,East,Salaried,1567000,723,False,Personal loan | Savings account,2,2026-03-31
+DEMO-C00029,West,Salaried,1710000,849,True,Auto loan | Demat account | Mutual fund,3,2026-03-31
+DEMO-C00030,North,Salaried,1197000,707,False,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00031,South,Salaried,732000,692,True,Credit card | Mutual fund | Personal loan | Term insurance,4,2026-03-31
+DEMO-C00032,East,Self-employed,635000,837,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00033,East,Salaried,1519000,641,True,Credit card | Current account | Savings account | Term insurance,4,2026-03-31
+DEMO-C00034,East,Self-employed,1808000,713,True,,0,2026-03-31
+DEMO-C00035,West,Salaried,1808000,735,True,,0,2026-03-31
+DEMO-C00036,West,Salaried,934000,787,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00037,South,Salaried,1095000,675,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00038,North,Salaried,1407000,764,True,Auto loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C00039,North,Self-employed,913000,671,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00040,West,Salaried,1449000,694,False,Mutual fund,1,2026-03-31
+DEMO-C00041,North,Business,585000,717,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00042,West,Self-employed,2003000,603,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00043,West,Salaried,633000,741,True,Credit card | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C00044,South,Salaried,1007000,733,True,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00045,East,Self-employed,473000,687,True,Savings account,1,2026-03-31
+DEMO-C00046,West,Salaried,1203000,626,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00047,East,Self-employed,533000,588,False,,0,2026-03-31
+DEMO-C00048,East,Salaried,1440000,818,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00049,North,Self-employed,572000,761,True,Fixed deposit | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00050,West,Salaried,1952000,664,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00051,North,Self-employed,2260000,616,True,Credit card | Demat account | Mutual fund,3,2026-03-31
+DEMO-C00052,West,Self-employed,2177000,801,True,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00053,North,Business,545000,675,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00054,South,Salaried,1166000,850,True,Fixed deposit | Home loan | Personal loan,3,2026-03-31
+DEMO-C00055,West,Self-employed,879000,672,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00056,West,Business,998000,806,True,Auto loan,1,2026-03-31
+DEMO-C00057,South,Business,873000,763,False,Auto loan | Current account | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C00058,South,Business,1502000,588,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00059,South,Self-employed,1182000,730,True,Demat account | Personal loan | Savings account,3,2026-03-31
+DEMO-C00060,South,Self-employed,1616000,793,True,Credit card | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C00061,South,Salaried,696000,645,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00062,North,Salaried,2367000,662,True,Auto loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00063,East,Salaried,1424000,806,True,Auto loan | Business loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C00064,East,Self-employed,2156000,777,True,Business loan | Credit card | Home loan | Savings account,4,2026-03-31
+DEMO-C00065,North,Salaried,2031000,703,True,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00066,West,Salaried,925000,703,False,Credit card,1,2026-03-31
+DEMO-C00067,West,Salaried,1518000,621,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00068,West,Salaried,1201000,723,False,Business loan | Credit card | Demat account | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,8,2026-03-31
+DEMO-C00069,North,Business,2259000,612,True,Current account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C00070,West,Self-employed,1285000,736,True,Auto loan | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00071,West,Self-employed,868000,752,True,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C00072,West,Salaried,2324000,758,True,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00073,West,Salaried,1855000,612,True,Term insurance,1,2026-03-31
+DEMO-C00074,North,Business,1748000,845,True,Auto loan | Current account | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C00075,North,Salaried,790000,627,False,,0,2026-03-31
+DEMO-C00076,West,Self-employed,784000,784,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00077,South,Salaried,737000,714,False,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00078,North,Salaried,2138000,585,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00079,South,Salaried,1131000,778,True,Auto loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C00080,North,Self-employed,2160000,826,True,Demat account | Home loan | Mutual fund | Personal loan | Term insurance,5,2026-03-31
+DEMO-C00081,South,Salaried,1894000,654,True,Auto loan,1,2026-03-31
+DEMO-C00082,North,Salaried,1005000,846,False,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00083,North,Business,2355000,591,True,Current account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00084,South,Self-employed,762000,770,False,Fixed deposit | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00085,West,Salaried,844000,755,True,Credit card | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C00086,West,Self-employed,2372000,747,True,Credit card | Current account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00087,East,Self-employed,530000,692,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00088,West,Self-employed,844000,734,True,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00089,North,Salaried,1899000,783,False,Credit card | Demat account | Mutual fund | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00090,West,Business,1012000,813,True,Business loan | Savings account,2,2026-03-31
+DEMO-C00091,North,Salaried,2356000,839,True,Auto loan | Demat account | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C00092,West,Self-employed,689000,763,True,Fixed deposit | Home loan | Term insurance,3,2026-03-31
+DEMO-C00093,North,Salaried,1738000,782,True,Business loan | Mutual fund,2,2026-03-31
+DEMO-C00094,West,Salaried,949000,673,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00095,West,Salaried,456000,639,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00096,North,Salaried,2313000,617,True,Business loan | Demat account | Mutual fund,3,2026-03-31
+DEMO-C00097,North,Salaried,625000,807,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00098,West,Salaried,1896000,636,False,Personal loan | Term insurance,2,2026-03-31
+DEMO-C00099,North,Salaried,1462000,619,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00100,West,Salaried,2160000,823,True,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C00101,North,Self-employed,1169000,721,True,Business loan | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00102,North,Salaried,1856000,794,True,Home loan | Mutual fund,2,2026-03-31
+DEMO-C00103,North,Salaried,2389000,846,False,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00104,West,Salaried,649000,830,True,Auto loan | Credit card | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C00105,West,Salaried,1477000,781,False,Credit card | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00106,North,Self-employed,608000,828,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00107,South,Self-employed,2039000,594,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00108,North,Salaried,1194000,758,True,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00109,North,Self-employed,600000,800,True,Auto loan | Demat account | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00110,East,Self-employed,1317000,821,True,Business loan | Demat account | Personal loan | Savings account,4,2026-03-31
+DEMO-C00111,South,Salaried,1087000,805,False,Credit card | Savings account,2,2026-03-31
+DEMO-C00112,North,Self-employed,617000,752,True,Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00113,North,Salaried,1952000,582,True,Business loan,1,2026-03-31
+DEMO-C00114,South,Salaried,2201000,676,False,Demat account | Home loan | Personal loan | Term insurance,4,2026-03-31
+DEMO-C00115,West,Salaried,2310000,569,False,Credit card | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C00116,North,Salaried,832000,676,False,Credit card | Fixed deposit | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00117,North,Self-employed,2116000,660,True,Fixed deposit | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C00118,North,Business,1003000,743,True,Current account | Demat account | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C00119,North,Self-employed,1680000,785,True,Home loan | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00120,West,Business,1417000,814,True,Current account | Fixed deposit | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C00121,North,Salaried,2262000,719,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00122,South,Business,569000,649,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00123,North,Business,1460000,799,True,Demat account | Mutual fund | Term insurance,3,2026-03-31
+DEMO-C00124,West,Salaried,591000,732,True,Auto loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00125,West,Salaried,814000,720,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C00126,West,Salaried,1791000,607,True,Savings account,1,2026-03-31
+DEMO-C00127,North,Salaried,873000,771,False,Current account | Term insurance,2,2026-03-31
+DEMO-C00128,East,Salaried,2325000,705,True,Demat account | Savings account,2,2026-03-31
+DEMO-C00129,North,Salaried,776000,703,True,Business loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00130,West,Salaried,2276000,648,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00131,South,Salaried,921000,692,True,Credit card | Savings account | Term insurance,3,2026-03-31
+DEMO-C00132,West,Salaried,1107000,582,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00133,West,Self-employed,1693000,832,True,Home loan | Personal loan | Term insurance,3,2026-03-31
+DEMO-C00134,North,Business,1108000,834,False,Current account | Demat account | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00135,North,Business,626000,709,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00136,South,Self-employed,2312000,653,True,Fixed deposit | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00137,East,Salaried,1261000,586,True,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00138,West,Self-employed,2396000,808,True,Demat account | Home loan | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00139,North,Business,2299000,712,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00140,North,Salaried,726000,683,False,Auto loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00141,South,Salaried,414000,703,True,,0,2026-03-31
+DEMO-C00142,South,Self-employed,1081000,751,True,Demat account | Home loan | Mutual fund | Term insurance,4,2026-03-31
+DEMO-C00143,West,Salaried,2194000,770,True,Fixed deposit | Home loan | Savings account,3,2026-03-31
+DEMO-C00144,West,Self-employed,2130000,610,True,Demat account | Fixed deposit | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00145,East,Self-employed,1557000,693,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00146,North,Self-employed,672000,804,True,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,8,2026-03-31
+DEMO-C00147,South,Self-employed,463000,720,False,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00148,South,Self-employed,2244000,813,False,Auto loan | Fixed deposit | Mutual fund,3,2026-03-31
+DEMO-C00149,South,Self-employed,2353000,686,False,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00150,South,Self-employed,1434000,827,True,Auto loan | Credit card | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C00151,West,Salaried,2396000,745,True,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00152,South,Salaried,2330000,583,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00153,South,Salaried,690000,587,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00154,North,Self-employed,1748000,780,True,Savings account,1,2026-03-31
+DEMO-C00155,North,Salaried,455000,753,True,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00156,North,Business,588000,586,True,Demat account | Personal loan,2,2026-03-31
+DEMO-C00157,South,Salaried,1790000,748,True,Auto loan | Business loan | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,7,2026-03-31
+DEMO-C00158,East,Salaried,1439000,741,True,Demat account | Home loan | Mutual fund,3,2026-03-31
+DEMO-C00159,West,Business,1329000,787,False,Auto loan | Credit card | Current account | Demat account | Fixed deposit | Mutual fund | Savings account | Term insurance,8,2026-03-31
+DEMO-C00160,East,Salaried,2157000,683,False,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00161,West,Salaried,690000,847,True,Savings account,1,2026-03-31
+DEMO-C00162,West,Business,1664000,715,True,Current account | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00163,North,Business,480000,738,True,Auto loan | Current account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00164,West,Salaried,645000,722,True,Savings account,1,2026-03-31
+DEMO-C00165,South,Self-employed,1855000,657,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00166,West,Self-employed,1882000,767,True,Auto loan | Demat account | Home loan | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C00167,South,Salaried,1701000,626,False,Demat account | Savings account,2,2026-03-31
+DEMO-C00168,South,Salaried,2026000,597,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00169,East,Business,1275000,838,False,Current account | Savings account,2,2026-03-31
+DEMO-C00170,East,Self-employed,792000,780,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00171,North,Salaried,2321000,673,False,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00172,West,Salaried,2328000,829,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00173,West,Salaried,1424000,655,False,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00174,North,Salaried,380000,829,True,Auto loan | Business loan | Credit card | Fixed deposit | Personal loan | Savings account,6,2026-03-31
+DEMO-C00175,West,Salaried,1908000,812,True,Business loan | Fixed deposit | Personal loan,3,2026-03-31
+DEMO-C00176,West,Salaried,1769000,748,True,Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00177,South,Self-employed,811000,573,True,Savings account,1,2026-03-31
+DEMO-C00178,North,Self-employed,599000,732,True,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00179,South,Self-employed,563000,762,True,Home loan,1,2026-03-31
+DEMO-C00180,West,Salaried,1607000,741,True,Auto loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00181,South,Salaried,1142000,826,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00182,West,Salaried,764000,832,False,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00183,East,Salaried,1259000,806,True,Auto loan | Credit card | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00184,East,Salaried,1770000,570,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00185,East,Salaried,1050000,783,False,Auto loan,1,2026-03-31
+DEMO-C00186,East,Self-employed,1338000,563,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00187,South,Self-employed,1221000,820,False,Business loan | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00188,North,Self-employed,1862000,598,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00189,South,Salaried,872000,700,True,Credit card | Fixed deposit | Home loan | Savings account,4,2026-03-31
+DEMO-C00190,South,Business,1317000,661,True,Current account | Demat account | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00191,West,Self-employed,1287000,578,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00192,West,Salaried,1792000,802,True,Business loan | Demat account | Mutual fund,3,2026-03-31
+DEMO-C00193,South,Business,1057000,567,False,Credit card | Current account | Demat account | Savings account,4,2026-03-31
+DEMO-C00194,West,Self-employed,678000,831,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00195,West,Self-employed,1505000,697,True,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00196,West,Salaried,1744000,758,False,Credit card | Current account | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00197,East,Salaried,649000,624,True,Business loan | Credit card | Savings account,3,2026-03-31
+DEMO-C00198,South,Salaried,600000,662,False,Savings account,1,2026-03-31
+DEMO-C00199,West,Salaried,1978000,738,False,Current account | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00200,South,Salaried,1987000,660,False,Demat account | Term insurance,2,2026-03-31
+DEMO-C00201,North,Business,473000,622,False,Credit card | Current account | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C00202,South,Salaried,1151000,813,True,Auto loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00203,South,Self-employed,1428000,653,True,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C00204,North,Salaried,476000,752,True,Demat account | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C00205,South,Salaried,1188000,826,True,Current account | Home loan | Personal loan | Term insurance,4,2026-03-31
+DEMO-C00206,South,Salaried,663000,846,True,Credit card | Current account | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00207,South,Salaried,1077000,578,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00208,East,Salaried,1614000,794,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00209,West,Business,2143000,821,True,Current account | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00210,South,Salaried,2272000,712,False,Business loan | Mutual fund,2,2026-03-31
+DEMO-C00211,North,Salaried,1220000,834,True,Savings account,1,2026-03-31
+DEMO-C00212,West,Business,2274000,587,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00213,North,Business,463000,607,False,Auto loan | Credit card | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00214,South,Self-employed,1223000,661,True,Auto loan | Demat account | Mutual fund,3,2026-03-31
+DEMO-C00215,East,Business,1960000,572,True,Current account | Savings account,2,2026-03-31
+DEMO-C00216,North,Self-employed,1382000,604,True,,0,2026-03-31
+DEMO-C00217,South,Salaried,1193000,779,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00218,East,Self-employed,1713000,820,False,Demat account | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00219,South,Salaried,1782000,733,True,Demat account | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00220,East,Business,2197000,811,True,Business loan | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C00221,North,Salaried,1250000,606,True,Demat account | Fixed deposit | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00222,North,Salaried,519000,637,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C00223,South,Salaried,1647000,591,False,Personal loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00224,West,Salaried,498000,820,True,Savings account,1,2026-03-31
+DEMO-C00225,South,Salaried,865000,574,False,Credit card | Savings account,2,2026-03-31
+DEMO-C00226,East,Salaried,1413000,799,True,Demat account | Savings account,2,2026-03-31
+DEMO-C00227,East,Self-employed,673000,604,True,Savings account,1,2026-03-31
+DEMO-C00228,North,Salaried,2045000,661,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00229,North,Salaried,1384000,580,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00230,South,Business,1871000,676,False,Auto loan | Current account | Savings account,3,2026-03-31
+DEMO-C00231,North,Business,965000,692,True,Savings account,1,2026-03-31
+DEMO-C00232,South,Salaried,640000,791,False,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00233,South,Salaried,1596000,586,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00234,South,Self-employed,1449000,799,True,Business loan | Demat account | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00235,South,Salaried,1476000,581,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00236,North,Salaried,1417000,818,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00237,North,Self-employed,463000,698,True,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00238,West,Salaried,382000,737,True,Current account | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00239,West,Salaried,785000,692,True,Auto loan | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00240,West,Salaried,1694000,718,True,Credit card | Home loan | Savings account,3,2026-03-31
+DEMO-C00241,North,Salaried,895000,600,False,Fixed deposit | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00242,North,Self-employed,486000,655,True,Home loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00243,South,Salaried,2153000,794,True,Business loan | Demat account | Fixed deposit | Mutual fund | Personal loan,5,2026-03-31
+DEMO-C00244,West,Salaried,1841000,771,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00245,South,Self-employed,508000,779,False,Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00246,South,Salaried,939000,689,False,Credit card | Demat account | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C00247,West,Salaried,500000,657,True,Savings account,1,2026-03-31
+DEMO-C00248,West,Business,831000,847,True,Credit card | Current account | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00249,East,Salaried,458000,758,True,Auto loan | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C00250,North,Self-employed,957000,774,False,,0,2026-03-31
+DEMO-C00251,East,Salaried,797000,749,True,Credit card | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00252,South,Salaried,1544000,834,False,Auto loan,1,2026-03-31
+DEMO-C00253,East,Self-employed,1610000,654,True,Auto loan | Fixed deposit | Term insurance,3,2026-03-31
+DEMO-C00254,East,Salaried,930000,769,True,Auto loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00255,West,Self-employed,1240000,677,False,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00256,North,Salaried,388000,592,False,,0,2026-03-31
+DEMO-C00257,West,Self-employed,1378000,620,True,Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C00258,West,Salaried,1055000,761,True,Credit card | Current account | Savings account,3,2026-03-31
+DEMO-C00259,North,Self-employed,2199000,825,True,Auto loan | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00260,South,Salaried,696000,817,False,Auto loan | Current account | Home loan | Savings account,4,2026-03-31
+DEMO-C00261,West,Self-employed,487000,690,True,Fixed deposit | Mutual fund,2,2026-03-31
+DEMO-C00262,West,Salaried,851000,587,True,Credit card | Current account | Savings account | Term insurance,4,2026-03-31
+DEMO-C00263,North,Salaried,1208000,675,True,Auto loan | Demat account | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00264,South,Salaried,364000,785,True,Auto loan | Demat account | Home loan | Term insurance,4,2026-03-31
+DEMO-C00265,West,Business,840000,816,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00266,South,Salaried,2315000,690,False,Business loan | Credit card | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C00267,South,Self-employed,2002000,562,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00268,North,Self-employed,396000,646,True,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C00269,North,Salaried,674000,678,True,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00270,West,Salaried,1048000,827,True,Personal loan,1,2026-03-31
+DEMO-C00271,North,Business,801000,653,True,Current account | Savings account,2,2026-03-31
+DEMO-C00272,East,Business,1416000,836,True,Current account | Demat account | Home loan | Mutual fund | Term insurance,5,2026-03-31
+DEMO-C00273,North,Salaried,505000,626,True,Personal loan,1,2026-03-31
+DEMO-C00274,West,Salaried,2142000,687,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00275,North,Self-employed,1837000,774,True,Auto loan | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00276,West,Self-employed,2304000,756,True,Auto loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00277,West,Self-employed,1907000,837,True,Savings account,1,2026-03-31
+DEMO-C00278,South,Salaried,976000,607,True,Demat account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C00279,West,Salaried,1153000,728,True,Demat account | Home loan,2,2026-03-31
+DEMO-C00280,South,Salaried,367000,628,False,Current account,1,2026-03-31
+DEMO-C00281,South,Salaried,1353000,751,False,Fixed deposit | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C00282,North,Business,1885000,604,False,Current account | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00283,West,Salaried,557000,845,True,Auto loan | Fixed deposit | Mutual fund,3,2026-03-31
+DEMO-C00284,North,Self-employed,1732000,678,True,Auto loan | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00285,East,Salaried,1708000,688,True,Credit card | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00286,North,Business,1364000,733,False,Current account | Savings account,2,2026-03-31
+DEMO-C00287,South,Salaried,2101000,827,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00288,South,Salaried,695000,611,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00289,East,Salaried,1770000,751,True,Business loan | Demat account | Savings account,3,2026-03-31
+DEMO-C00290,West,Self-employed,1060000,630,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00291,West,Salaried,2380000,822,False,Business loan | Credit card | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00292,South,Salaried,1060000,697,True,Business loan | Credit card | Savings account,3,2026-03-31
+DEMO-C00293,South,Business,2176000,624,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00294,West,Salaried,818000,767,False,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00295,North,Salaried,661000,583,False,Demat account | Savings account | Term insurance,3,2026-03-31
+DEMO-C00296,South,Salaried,1171000,671,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C00297,South,Business,1526000,628,False,Current account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00298,West,Salaried,387000,709,True,Business loan | Credit card | Savings account,3,2026-03-31
+DEMO-C00299,West,Business,487000,676,True,Auto loan | Current account | Demat account | Fixed deposit | Mutual fund | Savings account,6,2026-03-31
+DEMO-C00300,East,Business,1830000,639,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00301,South,Self-employed,2248000,783,True,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00302,East,Salaried,2092000,803,False,Fixed deposit,1,2026-03-31
+DEMO-C00303,East,Business,1099000,825,True,Business loan | Credit card | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00304,South,Salaried,1917000,607,False,Credit card | Current account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00305,West,Self-employed,2066000,718,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00306,North,Salaried,934000,735,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00307,North,Salaried,968000,600,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C00308,South,Self-employed,881000,816,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00309,North,Salaried,1526000,808,True,Demat account | Home loan | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00310,West,Salaried,1335000,713,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00311,South,Salaried,1140000,612,True,Credit card | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00312,West,Business,1985000,809,True,Current account | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C00313,West,Self-employed,790000,814,True,Business loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00314,West,Business,822000,619,False,Auto loan | Current account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00315,South,Salaried,868000,680,True,Savings account,1,2026-03-31
+DEMO-C00316,North,Salaried,1926000,579,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00317,North,Salaried,1780000,727,True,Credit card | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C00318,North,Self-employed,2348000,760,True,Business loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00319,South,Self-employed,2390000,587,True,Savings account,1,2026-03-31
+DEMO-C00320,West,Self-employed,855000,698,False,Personal loan | Savings account,2,2026-03-31
+DEMO-C00321,South,Salaried,1490000,826,True,Personal loan,1,2026-03-31
+DEMO-C00322,North,Business,958000,607,False,Current account,1,2026-03-31
+DEMO-C00323,South,Salaried,460000,577,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00324,West,Salaried,1417000,674,True,Business loan | Credit card | Savings account,3,2026-03-31
+DEMO-C00325,East,Salaried,631000,681,True,Savings account,1,2026-03-31
+DEMO-C00326,West,Self-employed,2020000,604,True,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00327,North,Salaried,1997000,786,True,Credit card | Demat account | Home loan | Mutual fund | Personal loan | Term insurance,6,2026-03-31
+DEMO-C00328,North,Salaried,1296000,738,False,Demat account | Mutual fund | Personal loan,3,2026-03-31
+DEMO-C00329,South,Business,1249000,809,False,Current account | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00330,West,Salaried,870000,782,True,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00331,North,Salaried,931000,593,True,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00332,West,Salaried,1009000,827,True,Personal loan,1,2026-03-31
+DEMO-C00333,South,Business,1010000,800,True,Current account | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00334,West,Business,1259000,786,True,Current account | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00335,North,Business,1261000,666,True,Current account | Demat account | Savings account,3,2026-03-31
+DEMO-C00336,North,Salaried,1669000,811,False,Demat account | Home loan | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00337,East,Self-employed,1154000,675,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00338,West,Salaried,1006000,612,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00339,South,Self-employed,2155000,597,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00340,South,Salaried,1081000,599,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C00341,West,Business,1178000,639,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00342,North,Salaried,441000,571,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00343,East,Salaried,1255000,762,True,Auto loan,1,2026-03-31
+DEMO-C00344,North,Self-employed,963000,639,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00345,East,Salaried,1355000,814,True,Business loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00346,West,Business,1973000,766,True,Business loan | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C00347,North,Self-employed,1336000,581,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00348,East,Salaried,1402000,646,False,Credit card | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00349,West,Salaried,548000,618,False,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00350,East,Salaried,1145000,742,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00351,East,Salaried,1052000,691,True,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00352,South,Salaried,1419000,645,True,Credit card | Personal loan,2,2026-03-31
+DEMO-C00353,South,Salaried,1241000,599,True,Demat account | Fixed deposit | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00354,South,Self-employed,788000,674,True,Auto loan | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00355,North,Self-employed,523000,734,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00356,South,Salaried,1449000,617,True,Auto loan | Credit card,2,2026-03-31
+DEMO-C00357,West,Self-employed,2040000,834,True,Business loan | Fixed deposit | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C00358,North,Business,1194000,626,False,Demat account | Savings account,2,2026-03-31
+DEMO-C00359,North,Business,611000,700,True,Credit card,1,2026-03-31
+DEMO-C00360,North,Business,772000,848,True,Personal loan,1,2026-03-31
+DEMO-C00361,East,Self-employed,1526000,793,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00362,West,Self-employed,397000,657,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00363,West,Salaried,1063000,648,False,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00364,East,Salaried,791000,578,False,,0,2026-03-31
+DEMO-C00365,South,Salaried,1574000,732,False,Credit card | Current account | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,7,2026-03-31
+DEMO-C00366,East,Self-employed,1072000,584,True,Auto loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00367,West,Salaried,862000,650,True,Auto loan | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00368,West,Salaried,1702000,714,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C00369,North,Salaried,1077000,564,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C00370,South,Business,1819000,657,True,Business loan,1,2026-03-31
+DEMO-C00371,North,Salaried,1262000,670,False,Home loan | Term insurance,2,2026-03-31
+DEMO-C00372,West,Self-employed,543000,849,False,,0,2026-03-31
+DEMO-C00373,North,Business,1182000,602,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00374,South,Self-employed,524000,803,True,Auto loan | Business loan | Credit card | Personal loan | Savings account,5,2026-03-31
+DEMO-C00375,East,Self-employed,1102000,696,True,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C00376,West,Business,692000,691,True,Credit card | Current account | Fixed deposit | Home loan | Personal loan | Savings account,6,2026-03-31
+DEMO-C00377,East,Business,2197000,844,False,Current account | Fixed deposit,2,2026-03-31
+DEMO-C00378,South,Salaried,1913000,825,False,Business loan | Credit card | Savings account | Term insurance,4,2026-03-31
+DEMO-C00379,North,Salaried,1653000,593,True,Savings account,1,2026-03-31
+DEMO-C00380,South,Salaried,2353000,594,False,Credit card | Current account | Demat account,3,2026-03-31
+DEMO-C00381,South,Salaried,691000,564,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00382,East,Self-employed,502000,637,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00383,North,Self-employed,1784000,764,True,Personal loan,1,2026-03-31
+DEMO-C00384,West,Salaried,1891000,783,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C00385,West,Business,1263000,817,False,Credit card,1,2026-03-31
+DEMO-C00386,South,Salaried,1848000,813,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00387,South,Salaried,1929000,587,True,Term insurance,1,2026-03-31
+DEMO-C00388,West,Salaried,1266000,827,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00389,North,Salaried,1610000,805,False,Auto loan | Credit card | Savings account | Term insurance,4,2026-03-31
+DEMO-C00390,East,Salaried,1772000,825,True,Auto loan | Demat account | Fixed deposit | Mutual fund,4,2026-03-31
+DEMO-C00391,West,Salaried,625000,627,True,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00392,North,Business,1440000,638,False,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00393,West,Self-employed,2117000,576,True,,0,2026-03-31
+DEMO-C00394,South,Salaried,841000,726,True,Mutual fund | Personal loan,2,2026-03-31
+DEMO-C00395,South,Salaried,2272000,666,True,Business loan | Demat account | Fixed deposit | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00396,South,Salaried,1865000,593,False,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00397,West,Salaried,857000,745,True,Current account | Savings account,2,2026-03-31
+DEMO-C00398,East,Salaried,498000,727,True,Auto loan | Demat account | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C00399,East,Self-employed,1117000,814,False,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C00400,North,Salaried,1644000,579,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00401,East,Salaried,791000,773,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00402,North,Salaried,981000,672,True,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C00403,East,Self-employed,2270000,620,True,Term insurance,1,2026-03-31
+DEMO-C00404,South,Business,1466000,768,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00405,West,Self-employed,861000,793,True,,0,2026-03-31
+DEMO-C00406,East,Salaried,1692000,722,False,Auto loan | Credit card | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C00407,North,Salaried,383000,699,True,Current account | Demat account,2,2026-03-31
+DEMO-C00408,North,Salaried,1075000,609,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00409,North,Salaried,780000,658,True,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00410,North,Self-employed,437000,690,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00411,North,Salaried,843000,592,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00412,South,Self-employed,1152000,767,True,Term insurance,1,2026-03-31
+DEMO-C00413,West,Business,1078000,847,True,Current account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00414,South,Salaried,1218000,784,True,Credit card | Demat account | Mutual fund | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00415,West,Salaried,978000,560,False,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00416,East,Self-employed,1257000,662,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00417,West,Salaried,1677000,627,True,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00418,South,Self-employed,1611000,732,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00419,West,Salaried,1097000,780,True,,0,2026-03-31
+DEMO-C00420,West,Salaried,1785000,644,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00421,North,Business,2390000,608,False,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00422,North,Self-employed,1205000,567,False,Demat account | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00423,North,Salaried,1128000,715,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00424,South,Business,588000,796,True,Business loan | Home loan,2,2026-03-31
+DEMO-C00425,South,Salaried,1160000,608,True,Savings account,1,2026-03-31
+DEMO-C00426,East,Salaried,2373000,820,True,,0,2026-03-31
+DEMO-C00427,West,Salaried,2033000,821,True,Demat account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00428,South,Business,1827000,838,True,Business loan | Current account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00429,East,Self-employed,926000,638,True,Demat account | Savings account | Term insurance,3,2026-03-31
+DEMO-C00430,East,Business,427000,582,True,Credit card | Current account | Demat account | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00431,West,Salaried,878000,811,True,Auto loan | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00432,North,Salaried,1010000,634,True,Savings account,1,2026-03-31
+DEMO-C00433,South,Salaried,1529000,642,True,Auto loan | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C00434,South,Salaried,651000,736,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00435,West,Business,565000,844,False,Auto loan | Demat account | Savings account,3,2026-03-31
+DEMO-C00436,South,Salaried,2003000,799,False,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00437,West,Salaried,1229000,689,True,Demat account | Mutual fund | Personal loan,3,2026-03-31
+DEMO-C00438,South,Business,1884000,761,False,Auto loan | Credit card | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00439,West,Salaried,1926000,594,False,Credit card | Home loan | Savings account,3,2026-03-31
+DEMO-C00440,West,Salaried,2132000,670,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00441,South,Business,1457000,846,True,Demat account | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00442,West,Salaried,2064000,664,True,Current account | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C00443,West,Salaried,583000,608,True,Credit card | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C00444,East,Salaried,1062000,619,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00445,West,Salaried,490000,768,True,Auto loan | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00446,West,Salaried,753000,820,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00447,South,Self-employed,546000,806,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00448,South,Business,1800000,812,False,Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C00449,West,Salaried,1971000,639,False,Savings account,1,2026-03-31
+DEMO-C00450,East,Self-employed,1567000,684,True,Savings account,1,2026-03-31
+DEMO-C00451,North,Salaried,2329000,585,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00452,South,Self-employed,528000,738,True,Auto loan | Current account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C00453,North,Salaried,673000,674,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00454,East,Salaried,2123000,611,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00455,North,Salaried,709000,799,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00456,North,Salaried,819000,696,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00457,East,Salaried,1636000,662,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00458,North,Self-employed,961000,804,True,Auto loan | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00459,South,Salaried,682000,794,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00460,West,Self-employed,1447000,798,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00461,West,Business,756000,583,True,Business loan | Current account | Demat account | Fixed deposit | Savings account,5,2026-03-31
+DEMO-C00462,North,Self-employed,2260000,679,True,Demat account | Personal loan | Savings account,3,2026-03-31
+DEMO-C00463,North,Salaried,1265000,610,False,Auto loan | Mutual fund,2,2026-03-31
+DEMO-C00464,West,Self-employed,2342000,707,False,Credit card | Demat account | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00465,West,Salaried,682000,721,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00466,West,Self-employed,2192000,741,True,Credit card | Fixed deposit | Personal loan,3,2026-03-31
+DEMO-C00467,North,Self-employed,1816000,653,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00468,West,Salaried,1595000,654,True,Credit card | Demat account | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00469,South,Salaried,1646000,588,True,Credit card | Demat account | Personal loan | Savings account,4,2026-03-31
+DEMO-C00470,West,Business,2205000,720,True,Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00471,East,Salaried,1388000,747,True,Auto loan | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00472,West,Salaried,1895000,578,False,Current account | Demat account | Mutual fund,3,2026-03-31
+DEMO-C00473,South,Salaried,749000,776,False,Business loan | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00474,North,Business,1131000,628,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00475,West,Business,2036000,577,True,Current account | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00476,South,Business,685000,690,True,Credit card | Demat account | Fixed deposit | Home loan | Savings account,5,2026-03-31
+DEMO-C00477,South,Salaried,398000,820,True,Auto loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00478,South,Salaried,884000,696,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00479,South,Salaried,1457000,828,False,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,8,2026-03-31
+DEMO-C00480,South,Salaried,1472000,741,True,Auto loan | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00481,North,Business,792000,792,False,Auto loan | Current account,2,2026-03-31
+DEMO-C00482,North,Business,1153000,635,True,Credit card | Current account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00483,South,Self-employed,2348000,578,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00484,South,Self-employed,2096000,660,True,Savings account,1,2026-03-31
+DEMO-C00485,West,Self-employed,1181000,810,True,Auto loan | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C00486,North,Salaried,1939000,688,True,Business loan | Current account | Savings account,3,2026-03-31
+DEMO-C00487,West,Salaried,1513000,768,False,Auto loan | Credit card | Fixed deposit | Home loan | Personal loan | Savings account,6,2026-03-31
+DEMO-C00488,West,Salaried,2156000,602,False,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00489,West,Salaried,1079000,580,True,Business loan | Credit card | Fixed deposit | Savings account | Term insurance,5,2026-03-31
+DEMO-C00490,West,Salaried,848000,773,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00491,South,Salaried,1650000,651,False,Savings account,1,2026-03-31
+DEMO-C00492,West,Business,1613000,828,True,Demat account | Fixed deposit | Home loan | Savings account,4,2026-03-31
+DEMO-C00493,East,Self-employed,1668000,585,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00494,West,Salaried,1838000,822,False,Credit card | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00495,North,Business,1280000,805,True,Auto loan | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00496,West,Self-employed,1185000,646,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00497,North,Business,455000,660,True,Auto loan | Fixed deposit | Mutual fund,3,2026-03-31
+DEMO-C00498,West,Salaried,1654000,740,True,Credit card | Current account | Savings account,3,2026-03-31
+DEMO-C00499,South,Salaried,1915000,657,True,Demat account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C00500,South,Self-employed,443000,766,False,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00501,East,Salaried,492000,599,True,Business loan,1,2026-03-31
+DEMO-C00502,East,Business,397000,743,True,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00503,West,Salaried,2094000,665,True,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C00504,South,Self-employed,440000,620,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C00505,West,Salaried,1200000,664,True,,0,2026-03-31
+DEMO-C00506,South,Salaried,1684000,820,False,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00507,West,Self-employed,885000,815,False,Personal loan | Savings account,2,2026-03-31
+DEMO-C00508,West,Salaried,729000,796,True,Auto loan | Demat account | Fixed deposit | Home loan | Savings account,5,2026-03-31
+DEMO-C00509,North,Self-employed,2303000,628,False,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00510,South,Salaried,1877000,652,True,Credit card | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00511,North,Salaried,1403000,776,True,Savings account,1,2026-03-31
+DEMO-C00512,North,Salaried,1601000,675,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00513,South,Salaried,1374000,671,True,Credit card | Savings account | Term insurance,3,2026-03-31
+DEMO-C00514,East,Salaried,2122000,685,False,Personal loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00515,North,Salaried,538000,679,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00516,South,Salaried,1917000,839,False,Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00517,North,Self-employed,671000,722,False,Business loan | Savings account,2,2026-03-31
+DEMO-C00518,North,Self-employed,931000,689,False,Term insurance,1,2026-03-31
+DEMO-C00519,West,Salaried,2386000,705,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00520,South,Self-employed,2263000,807,True,Auto loan | Credit card | Demat account | Personal loan | Savings account,5,2026-03-31
+DEMO-C00521,South,Self-employed,848000,830,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00522,West,Self-employed,1259000,676,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00523,North,Salaried,1182000,682,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00524,North,Business,1399000,725,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00525,West,Salaried,1811000,643,True,Credit card | Current account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00526,West,Salaried,692000,825,True,Credit card | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00527,West,Self-employed,510000,650,True,Fixed deposit | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C00528,South,Business,2275000,791,True,Auto loan | Demat account | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00529,South,Salaried,656000,604,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00530,South,Business,1457000,723,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00531,South,Business,713000,576,False,Savings account,1,2026-03-31
+DEMO-C00532,North,Salaried,2155000,688,False,Credit card | Savings account,2,2026-03-31
+DEMO-C00533,East,Salaried,1869000,729,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00534,North,Salaried,1261000,583,True,Credit card | Demat account | Mutual fund,3,2026-03-31
+DEMO-C00535,North,Salaried,1149000,802,False,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00536,South,Self-employed,1072000,792,False,Personal loan | Savings account,2,2026-03-31
+DEMO-C00537,North,Self-employed,1455000,633,False,Home loan | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00538,North,Salaried,559000,611,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00539,South,Salaried,2203000,728,True,Business loan | Credit card | Demat account | Home loan | Mutual fund | Personal loan | Savings account,7,2026-03-31
+DEMO-C00540,North,Salaried,811000,769,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C00541,West,Business,1027000,814,True,Current account | Savings account,2,2026-03-31
+DEMO-C00542,West,Salaried,1830000,592,True,Demat account | Term insurance,2,2026-03-31
+DEMO-C00543,West,Salaried,2203000,620,False,Savings account,1,2026-03-31
+DEMO-C00544,North,Salaried,486000,684,True,Auto loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C00545,South,Salaried,1469000,615,False,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00546,East,Self-employed,1357000,747,True,Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00547,East,Self-employed,951000,708,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00548,North,Salaried,818000,777,True,,0,2026-03-31
+DEMO-C00549,North,Salaried,1726000,784,True,Business loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00550,West,Salaried,1785000,698,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00551,North,Salaried,874000,594,True,Credit card | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00552,South,Salaried,2243000,676,True,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00553,North,Self-employed,719000,679,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00554,South,Salaried,1033000,793,True,Personal loan,1,2026-03-31
+DEMO-C00555,East,Salaried,1458000,620,True,Auto loan | Credit card | Demat account | Fixed deposit | Personal loan | Savings account,6,2026-03-31
+DEMO-C00556,West,Business,1471000,651,True,Savings account,1,2026-03-31
+DEMO-C00557,South,Business,606000,622,True,Mutual fund,1,2026-03-31
+DEMO-C00558,North,Salaried,1336000,819,True,Business loan | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00559,West,Self-employed,2394000,596,False,Mutual fund | Savings account,2,2026-03-31
+DEMO-C00560,North,Business,1552000,762,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00561,North,Salaried,1173000,798,False,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00562,North,Self-employed,1159000,737,False,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00563,West,Salaried,2358000,797,True,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00564,South,Business,2118000,616,True,Auto loan | Current account | Mutual fund,3,2026-03-31
+DEMO-C00565,South,Self-employed,1316000,787,False,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00566,West,Salaried,1360000,617,False,Credit card | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00567,North,Self-employed,1613000,757,True,Savings account,1,2026-03-31
+DEMO-C00568,North,Salaried,2321000,579,True,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C00569,South,Salaried,521000,741,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00570,South,Business,1719000,639,True,Auto loan | Current account | Personal loan | Savings account,4,2026-03-31
+DEMO-C00571,North,Salaried,2101000,728,True,Home loan,1,2026-03-31
+DEMO-C00572,East,Salaried,1636000,574,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00573,East,Salaried,2338000,796,False,Demat account | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00574,North,Salaried,2388000,668,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C00575,North,Self-employed,1558000,724,False,Savings account,1,2026-03-31
+DEMO-C00576,North,Business,1673000,792,False,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00577,North,Salaried,803000,614,True,Credit card | Home loan | Mutual fund | Term insurance,4,2026-03-31
+DEMO-C00578,West,Salaried,2396000,711,True,Savings account,1,2026-03-31
+DEMO-C00579,West,Salaried,1076000,722,False,Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C00580,South,Business,1507000,706,True,Current account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00581,West,Salaried,1607000,588,False,Credit card | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C00582,North,Business,2171000,668,True,Current account | Savings account,2,2026-03-31
+DEMO-C00583,West,Salaried,2103000,849,True,Current account | Demat account | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C00584,South,Salaried,1011000,662,True,Demat account | Mutual fund | Personal loan,3,2026-03-31
+DEMO-C00585,South,Self-employed,404000,718,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00586,North,Salaried,2249000,675,True,Mutual fund,1,2026-03-31
+DEMO-C00587,South,Salaried,1684000,703,True,Demat account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00588,North,Salaried,1390000,651,True,Auto loan | Fixed deposit,2,2026-03-31
+DEMO-C00589,West,Self-employed,1179000,660,True,Savings account,1,2026-03-31
+DEMO-C00590,North,Salaried,2346000,715,True,Savings account,1,2026-03-31
+DEMO-C00591,South,Salaried,1227000,600,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00592,West,Self-employed,2213000,769,True,Business loan | Savings account,2,2026-03-31
+DEMO-C00593,North,Salaried,1942000,694,False,Home loan | Savings account,2,2026-03-31
+DEMO-C00594,South,Business,405000,842,True,Credit card | Home loan | Savings account,3,2026-03-31
+DEMO-C00595,North,Salaried,1721000,648,True,Fixed deposit | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00596,West,Salaried,556000,736,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C00597,West,Self-employed,2258000,633,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C00598,West,Self-employed,2189000,665,False,Term insurance,1,2026-03-31
+DEMO-C00599,North,Salaried,2187000,662,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00600,West,Self-employed,1195000,580,False,Fixed deposit,1,2026-03-31
+DEMO-C00601,South,Salaried,2354000,718,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00602,North,Salaried,1670000,672,True,Current account | Term insurance,2,2026-03-31
+DEMO-C00603,East,Salaried,1768000,617,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00604,North,Salaried,2150000,726,True,Demat account | Mutual fund | Personal loan,3,2026-03-31
+DEMO-C00605,West,Salaried,1357000,676,True,Savings account,1,2026-03-31
+DEMO-C00606,West,Self-employed,1137000,592,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00607,South,Self-employed,1990000,801,True,Auto loan,1,2026-03-31
+DEMO-C00608,East,Business,1820000,623,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00609,West,Self-employed,1046000,753,True,Business loan | Fixed deposit | Home loan | Personal loan | Term insurance,5,2026-03-31
+DEMO-C00610,South,Salaried,2083000,759,False,Current account | Savings account,2,2026-03-31
+DEMO-C00611,South,Salaried,1508000,755,True,Demat account | Home loan | Mutual fund | Personal loan | Term insurance,5,2026-03-31
+DEMO-C00612,West,Business,517000,751,True,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00613,South,Salaried,1474000,798,False,Auto loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00614,North,Business,2328000,807,True,Business loan | Current account | Personal loan | Savings account,4,2026-03-31
+DEMO-C00615,West,Salaried,1850000,715,False,Home loan | Mutual fund | Term insurance,3,2026-03-31
+DEMO-C00616,North,Salaried,602000,712,False,Current account | Demat account,2,2026-03-31
+DEMO-C00617,North,Salaried,757000,804,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00618,South,Business,1263000,796,False,Current account | Demat account | Savings account,3,2026-03-31
+DEMO-C00619,South,Self-employed,530000,570,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00620,South,Self-employed,1845000,744,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00621,North,Self-employed,1766000,772,True,Auto loan | Current account | Savings account,3,2026-03-31
+DEMO-C00622,East,Salaried,1780000,746,True,Business loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00623,South,Business,2335000,563,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00624,West,Business,2071000,595,False,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00625,South,Salaried,594000,792,False,Auto loan | Business loan | Credit card | Fixed deposit | Home loan | Savings account,6,2026-03-31
+DEMO-C00626,North,Salaried,2129000,751,True,Current account | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00627,North,Self-employed,1138000,569,True,Credit card | Savings account | Term insurance,3,2026-03-31
+DEMO-C00628,South,Salaried,695000,808,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00629,South,Salaried,2286000,661,True,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00630,North,Salaried,1618000,708,True,Current account | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00631,West,Salaried,1099000,589,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C00632,North,Salaried,1933000,672,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00633,North,Salaried,611000,604,True,Auto loan | Credit card | Savings account | Term insurance,4,2026-03-31
+DEMO-C00634,North,Self-employed,1953000,569,True,Savings account,1,2026-03-31
+DEMO-C00635,South,Salaried,967000,812,True,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00636,South,Salaried,1998000,847,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00637,South,Self-employed,1372000,675,True,Demat account | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00638,North,Salaried,1967000,583,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00639,North,Salaried,1243000,580,True,Business loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00640,South,Salaried,2122000,660,True,Demat account | Mutual fund | Personal loan,3,2026-03-31
+DEMO-C00641,South,Salaried,506000,765,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00642,West,Self-employed,2069000,630,True,Demat account | Savings account,2,2026-03-31
+DEMO-C00643,North,Self-employed,2224000,646,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00644,West,Salaried,1207000,641,False,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C00645,South,Business,551000,675,False,Home loan | Savings account,2,2026-03-31
+DEMO-C00646,North,Self-employed,1245000,750,True,Auto loan | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C00647,South,Salaried,787000,779,True,Credit card | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00648,North,Business,693000,569,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C00649,West,Salaried,908000,838,True,Demat account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00650,West,Salaried,1074000,825,True,Auto loan | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00651,South,Salaried,816000,570,True,Home loan | Term insurance,2,2026-03-31
+DEMO-C00652,North,Salaried,614000,560,True,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00653,North,Salaried,1474000,735,True,Demat account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00654,South,Self-employed,1046000,763,True,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00655,South,Self-employed,1366000,834,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00656,North,Business,2195000,574,True,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Term insurance,6,2026-03-31
+DEMO-C00657,East,Self-employed,2026000,638,False,Auto loan | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00658,North,Business,392000,750,False,Auto loan | Current account | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00659,West,Salaried,1059000,757,False,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00660,South,Salaried,1636000,601,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00661,South,Salaried,889000,601,False,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00662,West,Business,912000,812,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00663,South,Salaried,1480000,800,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00664,West,Salaried,2344000,763,False,Credit card | Demat account | Fixed deposit | Mutual fund | Term insurance,5,2026-03-31
+DEMO-C00665,South,Salaried,374000,633,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00666,West,Salaried,1037000,680,True,Home loan | Personal loan | Term insurance,3,2026-03-31
+DEMO-C00667,East,Business,497000,600,True,Current account | Savings account,2,2026-03-31
+DEMO-C00668,South,Self-employed,1552000,692,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00669,West,Self-employed,1266000,850,False,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00670,West,Salaried,1862000,809,True,Business loan | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C00671,North,Business,2089000,796,True,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00672,South,Self-employed,1474000,702,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00673,South,Salaried,742000,643,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00674,East,Business,1113000,607,False,Current account | Fixed deposit,2,2026-03-31
+DEMO-C00675,South,Self-employed,387000,769,True,,0,2026-03-31
+DEMO-C00676,West,Self-employed,389000,809,True,Business loan | Personal loan,2,2026-03-31
+DEMO-C00677,North,Self-employed,890000,823,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00678,East,Salaried,702000,823,True,Fixed deposit | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00679,North,Self-employed,1423000,671,False,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00680,North,Self-employed,540000,691,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00681,West,Self-employed,666000,821,True,Credit card | Home loan | Savings account,3,2026-03-31
+DEMO-C00682,North,Salaried,1037000,564,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C00683,West,Salaried,450000,621,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00684,East,Salaried,771000,638,True,Savings account,1,2026-03-31
+DEMO-C00685,North,Salaried,1881000,752,False,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00686,North,Salaried,2396000,613,False,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00687,North,Salaried,443000,617,True,Savings account,1,2026-03-31
+DEMO-C00688,South,Salaried,1626000,825,False,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00689,West,Salaried,1487000,736,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C00690,East,Self-employed,1650000,839,True,Credit card | Demat account,2,2026-03-31
+DEMO-C00691,North,Salaried,1338000,589,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00692,West,Salaried,1619000,690,True,Demat account | Mutual fund | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00693,South,Self-employed,724000,765,False,Personal loan | Savings account,2,2026-03-31
+DEMO-C00694,South,Salaried,987000,596,True,,0,2026-03-31
+DEMO-C00695,East,Self-employed,1956000,615,True,Demat account | Fixed deposit | Mutual fund,3,2026-03-31
+DEMO-C00696,West,Business,1991000,774,True,Credit card | Demat account | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C00697,North,Self-employed,2379000,651,True,,0,2026-03-31
+DEMO-C00698,North,Salaried,1990000,692,True,Term insurance,1,2026-03-31
+DEMO-C00699,South,Salaried,1794000,744,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00700,East,Self-employed,1077000,800,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00701,South,Business,2329000,717,True,Credit card | Current account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00702,West,Self-employed,676000,786,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00703,West,Self-employed,1957000,850,True,Savings account,1,2026-03-31
+DEMO-C00704,South,Salaried,999000,676,True,Mutual fund | Savings account | Term insurance,3,2026-03-31
+DEMO-C00705,East,Self-employed,1035000,701,True,Auto loan | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00706,West,Salaried,819000,689,True,Savings account,1,2026-03-31
+DEMO-C00707,West,Self-employed,1794000,581,True,Auto loan | Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,6,2026-03-31
+DEMO-C00708,West,Salaried,1394000,757,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00709,South,Salaried,2388000,744,True,Credit card | Home loan | Personal loan,3,2026-03-31
+DEMO-C00710,North,Salaried,1896000,563,True,Credit card | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C00711,West,Salaried,1789000,577,True,Savings account,1,2026-03-31
+DEMO-C00712,South,Self-employed,1907000,749,True,Business loan | Credit card | Demat account | Fixed deposit | Personal loan | Savings account,6,2026-03-31
+DEMO-C00713,South,Salaried,867000,698,True,Fixed deposit,1,2026-03-31
+DEMO-C00714,South,Salaried,789000,700,False,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00715,North,Salaried,2312000,700,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C00716,West,Salaried,990000,645,True,Credit card | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C00717,South,Salaried,1831000,743,True,Personal loan | Term insurance,2,2026-03-31
+DEMO-C00718,West,Self-employed,1999000,814,False,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00719,North,Salaried,904000,838,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00720,South,Self-employed,1405000,614,False,,0,2026-03-31
+DEMO-C00721,North,Salaried,1456000,691,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00722,West,Salaried,947000,573,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00723,North,Salaried,586000,655,True,Business loan | Term insurance,2,2026-03-31
+DEMO-C00724,North,Self-employed,439000,808,True,Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00725,East,Self-employed,1437000,599,True,Auto loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00726,East,Salaried,538000,698,True,Business loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00727,South,Self-employed,1723000,843,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00728,West,Salaried,1202000,659,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00729,North,Self-employed,1656000,562,True,Credit card,1,2026-03-31
+DEMO-C00730,East,Salaried,1587000,580,False,Demat account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C00731,West,Salaried,1788000,759,True,Credit card | Current account | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00732,West,Salaried,1061000,802,True,Business loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00733,West,Salaried,665000,572,False,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00734,East,Business,936000,599,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00735,South,Salaried,1059000,820,False,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00736,North,Self-employed,1180000,776,False,Home loan | Savings account,2,2026-03-31
+DEMO-C00737,North,Self-employed,2251000,591,True,Savings account,1,2026-03-31
+DEMO-C00738,West,Salaried,1179000,645,True,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C00739,West,Business,2150000,711,False,Credit card | Current account | Fixed deposit | Personal loan,4,2026-03-31
+DEMO-C00740,East,Salaried,786000,809,False,Business loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00741,East,Salaried,676000,584,False,,0,2026-03-31
+DEMO-C00742,North,Business,542000,655,False,Current account | Savings account,2,2026-03-31
+DEMO-C00743,West,Salaried,2344000,705,True,Credit card | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00744,East,Salaried,2114000,832,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00745,North,Salaried,2153000,683,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00746,West,Salaried,2295000,838,True,Credit card | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00747,South,Salaried,1673000,766,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00748,West,Business,933000,850,False,Business loan | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00749,North,Business,605000,776,True,Credit card | Current account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00750,East,Salaried,1972000,727,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00751,East,Salaried,1382000,696,False,Savings account,1,2026-03-31
+DEMO-C00752,North,Salaried,1891000,572,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00753,North,Salaried,745000,648,True,Credit card | Savings account | Term insurance,3,2026-03-31
+DEMO-C00754,West,Salaried,1925000,640,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00755,South,Self-employed,1771000,791,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00756,East,Salaried,1101000,817,False,Credit card | Home loan | Savings account,3,2026-03-31
+DEMO-C00757,West,Self-employed,2290000,771,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00758,South,Self-employed,2336000,842,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00759,East,Salaried,1661000,655,True,Demat account | Home loan | Mutual fund | Term insurance,4,2026-03-31
+DEMO-C00760,West,Self-employed,906000,577,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00761,South,Salaried,504000,683,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00762,North,Salaried,2263000,623,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00763,North,Salaried,653000,722,True,,0,2026-03-31
+DEMO-C00764,South,Salaried,1488000,590,True,Credit card | Current account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00765,South,Salaried,1268000,711,True,Demat account | Home loan | Savings account,3,2026-03-31
+DEMO-C00766,West,Business,2242000,844,False,Current account | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00767,South,Salaried,1695000,711,True,Credit card,1,2026-03-31
+DEMO-C00768,East,Self-employed,1646000,777,True,Auto loan | Demat account | Mutual fund,3,2026-03-31
+DEMO-C00769,West,Self-employed,2283000,613,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00770,South,Salaried,1103000,792,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00771,East,Salaried,1044000,821,False,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00772,South,Self-employed,2054000,775,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00773,West,Salaried,2259000,619,True,Mutual fund | Savings account | Term insurance,3,2026-03-31
+DEMO-C00774,East,Salaried,1295000,782,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00775,East,Salaried,2374000,805,True,Business loan | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00776,East,Self-employed,2002000,741,False,Auto loan | Current account | Demat account | Fixed deposit | Savings account,5,2026-03-31
+DEMO-C00777,West,Business,836000,692,False,Credit card | Current account | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C00778,East,Salaried,2250000,719,True,Credit card,1,2026-03-31
+DEMO-C00779,North,Self-employed,1342000,826,True,Savings account,1,2026-03-31
+DEMO-C00780,East,Salaried,1077000,828,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00781,South,Self-employed,2283000,749,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00782,South,Self-employed,2090000,756,False,Credit card | Demat account | Home loan | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C00783,North,Salaried,2024000,673,True,Savings account,1,2026-03-31
+DEMO-C00784,North,Salaried,1801000,838,True,Business loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00785,East,Salaried,1590000,797,True,Home loan | Term insurance,2,2026-03-31
+DEMO-C00786,West,Self-employed,739000,779,True,Business loan | Home loan | Term insurance,3,2026-03-31
+DEMO-C00787,North,Self-employed,1596000,566,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00788,West,Salaried,904000,671,True,Current account | Savings account,2,2026-03-31
+DEMO-C00789,East,Self-employed,1074000,691,True,Current account | Demat account | Mutual fund | Personal loan | Term insurance,5,2026-03-31
+DEMO-C00790,South,Self-employed,1689000,830,True,Demat account | Home loan | Savings account,3,2026-03-31
+DEMO-C00791,South,Salaried,2054000,616,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00792,North,Self-employed,868000,781,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00793,West,Salaried,2029000,562,False,,0,2026-03-31
+DEMO-C00794,West,Salaried,1100000,764,False,Business loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00795,West,Salaried,1022000,577,True,Credit card,1,2026-03-31
+DEMO-C00796,South,Salaried,2076000,617,False,Mutual fund | Savings account,2,2026-03-31
+DEMO-C00797,South,Salaried,1584000,670,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00798,South,Salaried,1938000,628,False,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00799,South,Salaried,2229000,659,False,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00800,South,Salaried,1678000,809,True,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C00801,North,Salaried,2380000,679,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00802,East,Salaried,726000,731,True,Auto loan,1,2026-03-31
+DEMO-C00803,East,Salaried,1493000,595,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00804,South,Salaried,2222000,729,False,Credit card | Savings account,2,2026-03-31
+DEMO-C00805,East,Salaried,634000,798,True,Credit card | Demat account | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00806,West,Self-employed,430000,797,True,Auto loan | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00807,East,Salaried,992000,777,True,Auto loan | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00808,North,Self-employed,1067000,718,False,Credit card | Personal loan,2,2026-03-31
+DEMO-C00809,West,Salaried,2360000,642,True,Auto loan | Credit card | Demat account | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C00810,North,Salaried,462000,706,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00811,North,Salaried,2102000,793,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00812,North,Business,2135000,605,True,Current account | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00813,West,Self-employed,1644000,702,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00814,East,Business,1578000,727,False,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00815,North,Salaried,646000,567,True,Credit card | Savings account | Term insurance,3,2026-03-31
+DEMO-C00816,West,Salaried,1126000,714,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00817,South,Salaried,900000,800,True,,0,2026-03-31
+DEMO-C00818,North,Salaried,567000,631,True,Credit card | Fixed deposit | Mutual fund | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00819,West,Salaried,1391000,822,True,Auto loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00820,West,Self-employed,700000,819,False,Demat account | Mutual fund | Term insurance,3,2026-03-31
+DEMO-C00821,West,Self-employed,702000,581,False,Credit card | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00822,East,Self-employed,912000,584,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00823,South,Salaried,1801000,599,False,Personal loan | Savings account,2,2026-03-31
+DEMO-C00824,East,Salaried,887000,649,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00825,North,Business,682000,786,True,Current account | Personal loan,2,2026-03-31
+DEMO-C00826,North,Salaried,710000,621,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00827,West,Salaried,787000,676,False,Home loan | Personal loan | Term insurance,3,2026-03-31
+DEMO-C00828,East,Salaried,948000,634,False,Business loan | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00829,West,Salaried,2117000,661,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00830,South,Business,1908000,701,True,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00831,South,Self-employed,1210000,726,True,Savings account,1,2026-03-31
+DEMO-C00832,South,Self-employed,2029000,567,False,,0,2026-03-31
+DEMO-C00833,South,Salaried,1707000,738,True,Demat account | Mutual fund | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00834,West,Self-employed,1705000,824,False,Demat account | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00835,South,Salaried,1781000,655,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C00836,North,Salaried,1764000,819,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00837,East,Salaried,817000,828,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C00838,North,Salaried,1845000,808,True,Credit card | Demat account | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00839,West,Salaried,618000,777,False,Business loan | Mutual fund | Term insurance,3,2026-03-31
+DEMO-C00840,West,Salaried,896000,610,True,Savings account,1,2026-03-31
+DEMO-C00841,West,Self-employed,880000,812,True,Personal loan,1,2026-03-31
+DEMO-C00842,North,Salaried,786000,685,True,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00843,West,Self-employed,1502000,790,False,Business loan | Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,6,2026-03-31
+DEMO-C00844,West,Salaried,1845000,793,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C00845,South,Salaried,879000,674,False,Credit card | Current account | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00846,South,Salaried,1456000,567,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00847,North,Self-employed,2325000,649,True,Credit card | Demat account | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00848,West,Salaried,519000,764,False,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00849,West,Salaried,2009000,649,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00850,North,Business,1210000,750,True,Current account | Home loan | Personal loan,3,2026-03-31
+DEMO-C00851,South,Self-employed,1638000,747,False,Savings account,1,2026-03-31
+DEMO-C00852,South,Self-employed,2037000,574,True,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C00853,East,Business,822000,747,True,Savings account,1,2026-03-31
+DEMO-C00854,East,Salaried,424000,823,False,Auto loan | Savings account,2,2026-03-31
+DEMO-C00855,West,Salaried,362000,769,False,Credit card | Savings account,2,2026-03-31
+DEMO-C00856,West,Salaried,475000,564,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C00857,North,Salaried,1340000,838,True,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00858,South,Salaried,1210000,632,True,Fixed deposit | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00859,North,Self-employed,2018000,809,False,Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00860,East,Self-employed,377000,684,True,Business loan | Savings account,2,2026-03-31
+DEMO-C00861,North,Salaried,2393000,696,False,Auto loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00862,West,Salaried,932000,742,False,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00863,West,Salaried,1573000,577,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00864,South,Self-employed,970000,736,False,Term insurance,1,2026-03-31
+DEMO-C00865,South,Salaried,1749000,795,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00866,West,Business,1267000,829,True,Credit card | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00867,North,Salaried,1766000,614,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00868,West,Business,2171000,639,True,Savings account,1,2026-03-31
+DEMO-C00869,North,Salaried,2157000,848,True,Auto loan | Credit card | Current account | Home loan | Savings account,5,2026-03-31
+DEMO-C00870,West,Self-employed,1435000,563,True,Credit card | Mutual fund,2,2026-03-31
+DEMO-C00871,East,Self-employed,1259000,682,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00872,South,Self-employed,751000,648,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00873,North,Salaried,1634000,664,False,Business loan | Credit card | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00874,North,Self-employed,696000,806,True,Fixed deposit | Home loan | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00875,East,Salaried,2082000,681,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00876,West,Salaried,1662000,703,False,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00877,South,Salaried,623000,716,True,Demat account | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00878,South,Salaried,1916000,752,False,Credit card | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00879,East,Salaried,1696000,782,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00880,North,Business,726000,713,True,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00881,West,Business,1045000,615,False,Savings account,1,2026-03-31
+DEMO-C00882,South,Salaried,1721000,724,False,Auto loan | Demat account | Personal loan | Savings account,4,2026-03-31
+DEMO-C00883,West,Self-employed,837000,592,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00884,West,Self-employed,1284000,709,True,Savings account,1,2026-03-31
+DEMO-C00885,East,Self-employed,1594000,792,True,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00886,West,Salaried,1072000,655,True,Home loan | Mutual fund | Personal loan,3,2026-03-31
+DEMO-C00887,South,Salaried,671000,796,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00888,West,Salaried,2082000,580,False,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00889,West,Salaried,1118000,592,False,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00890,East,Salaried,1650000,668,True,Demat account | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00891,South,Salaried,1451000,775,False,Auto loan | Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C00892,North,Salaried,1711000,657,True,Auto loan | Credit card | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C00893,North,Salaried,1185000,567,False,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00894,West,Salaried,1883000,581,True,Savings account,1,2026-03-31
+DEMO-C00895,West,Self-employed,625000,577,True,Savings account,1,2026-03-31
+DEMO-C00896,South,Salaried,1669000,602,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00897,North,Self-employed,2347000,687,True,Business loan | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00898,East,Salaried,2307000,836,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00899,North,Self-employed,1906000,769,True,Credit card | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00900,West,Salaried,503000,849,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00901,West,Salaried,2076000,732,True,Credit card | Demat account | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00902,North,Salaried,689000,691,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00903,South,Salaried,922000,709,True,Savings account,1,2026-03-31
+DEMO-C00904,North,Salaried,2155000,764,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C00905,West,Salaried,834000,807,True,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00906,North,Salaried,737000,788,True,Auto loan | Credit card | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C00907,South,Salaried,1520000,850,True,Business loan | Credit card | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C00908,North,Salaried,876000,691,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00909,East,Salaried,989000,578,True,Credit card,1,2026-03-31
+DEMO-C00910,North,Business,2329000,640,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00911,West,Self-employed,2163000,685,True,Demat account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00912,North,Business,946000,640,True,Savings account,1,2026-03-31
+DEMO-C00913,West,Salaried,1297000,606,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00914,West,Salaried,2022000,697,True,Demat account | Personal loan | Savings account,3,2026-03-31
+DEMO-C00915,West,Salaried,839000,621,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C00916,South,Salaried,2303000,788,False,Auto loan | Demat account | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C00917,North,Self-employed,690000,563,False,Savings account | Term insurance,2,2026-03-31
+DEMO-C00918,South,Business,2325000,782,True,Auto loan | Current account | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00919,West,Salaried,938000,654,False,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C00920,South,Business,1281000,747,True,Current account | Home loan | Personal loan | Term insurance,4,2026-03-31
+DEMO-C00921,East,Self-employed,1522000,581,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00922,North,Salaried,539000,644,True,Demat account | Savings account,2,2026-03-31
+DEMO-C00923,West,Self-employed,1105000,673,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C00924,North,Business,1035000,800,True,Business loan | Credit card | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C00925,South,Salaried,1514000,564,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00926,South,Salaried,548000,809,True,Auto loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00927,South,Business,2254000,583,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C00928,North,Salaried,740000,806,False,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00929,West,Business,2399000,613,False,Demat account | Mutual fund | Term insurance,3,2026-03-31
+DEMO-C00930,East,Self-employed,2141000,606,False,Auto loan | Savings account,2,2026-03-31
+DEMO-C00931,North,Salaried,1798000,814,False,Credit card | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C00932,West,Salaried,961000,850,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00933,South,Self-employed,2312000,812,True,Demat account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00934,South,Self-employed,1490000,843,True,Business loan | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00935,North,Business,882000,740,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00936,South,Business,2049000,645,False,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00937,East,Business,1118000,616,True,Credit card | Home loan | Savings account,3,2026-03-31
+DEMO-C00938,West,Salaried,2377000,746,True,Credit card | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00939,North,Salaried,838000,773,True,Fixed deposit | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00940,South,Self-employed,1357000,724,True,Current account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00941,West,Self-employed,1209000,612,True,Savings account,1,2026-03-31
+DEMO-C00942,East,Business,2213000,844,True,Savings account,1,2026-03-31
+DEMO-C00943,North,Self-employed,1393000,698,False,Business loan | Credit card,2,2026-03-31
+DEMO-C00944,South,Business,444000,764,False,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C00945,South,Self-employed,1738000,748,True,Term insurance,1,2026-03-31
+DEMO-C00946,South,Business,1666000,780,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00947,South,Salaried,2258000,749,False,Home loan | Mutual fund,2,2026-03-31
+DEMO-C00948,North,Self-employed,1212000,771,True,Fixed deposit | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C00949,North,Business,759000,662,False,Current account | Demat account | Savings account | Term insurance,4,2026-03-31
+DEMO-C00950,South,Salaried,843000,804,False,Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00951,West,Self-employed,1662000,584,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00952,North,Business,1347000,766,False,Auto loan | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00953,South,Self-employed,984000,597,True,Savings account,1,2026-03-31
+DEMO-C00954,North,Salaried,375000,818,True,Auto loan | Business loan | Home loan | Personal loan | Term insurance,5,2026-03-31
+DEMO-C00955,South,Salaried,1826000,652,True,Auto loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C00956,South,Salaried,1495000,649,False,Mutual fund | Savings account,2,2026-03-31
+DEMO-C00957,North,Salaried,1205000,685,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00958,South,Salaried,1098000,666,True,Savings account,1,2026-03-31
+DEMO-C00959,West,Salaried,670000,632,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00960,North,Self-employed,1586000,621,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00961,North,Self-employed,522000,838,True,,0,2026-03-31
+DEMO-C00962,West,Salaried,1117000,838,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00963,North,Salaried,1030000,601,True,Credit card | Current account | Demat account | Fixed deposit | Mutual fund | Savings account,6,2026-03-31
+DEMO-C00964,West,Salaried,2127000,749,True,Business loan | Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,6,2026-03-31
+DEMO-C00965,North,Self-employed,2245000,776,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C00966,South,Salaried,943000,607,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00967,West,Self-employed,2183000,707,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00968,North,Salaried,1363000,719,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00969,South,Business,1369000,827,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C00970,South,Self-employed,437000,565,False,Savings account,1,2026-03-31
+DEMO-C00971,West,Self-employed,859000,772,True,Business loan | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C00972,West,Salaried,1678000,796,False,Current account | Home loan | Personal loan | Term insurance,4,2026-03-31
+DEMO-C00973,North,Salaried,1835000,632,True,Savings account,1,2026-03-31
+DEMO-C00974,West,Salaried,1423000,658,False,Demat account | Home loan | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00975,South,Self-employed,1635000,586,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00976,West,Salaried,2374000,814,True,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00977,North,Business,1462000,582,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C00978,East,Salaried,1727000,743,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00979,East,Salaried,1556000,723,True,Personal loan,1,2026-03-31
+DEMO-C00980,East,Self-employed,1883000,602,False,Business loan | Fixed deposit,2,2026-03-31
+DEMO-C00981,South,Self-employed,1791000,683,False,Personal loan,1,2026-03-31
+DEMO-C00982,West,Salaried,1367000,752,True,Auto loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00983,North,Salaried,1156000,643,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00984,West,Salaried,2296000,740,False,Mutual fund,1,2026-03-31
+DEMO-C00985,North,Salaried,657000,825,True,Demat account | Home loan | Mutual fund,3,2026-03-31
+DEMO-C00986,East,Self-employed,1369000,825,False,Current account | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C00987,North,Business,1301000,594,True,Current account | Savings account,2,2026-03-31
+DEMO-C00988,South,Business,2104000,706,True,Business loan | Current account | Demat account | Home loan,4,2026-03-31
+DEMO-C00989,North,Salaried,381000,589,True,Personal loan,1,2026-03-31
+DEMO-C00990,North,Business,584000,768,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C00991,South,Business,659000,766,True,Credit card | Savings account,2,2026-03-31
+DEMO-C00992,East,Self-employed,544000,727,True,Auto loan | Business loan | Credit card | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C00993,North,Salaried,480000,751,False,Credit card | Savings account,2,2026-03-31
+DEMO-C00994,West,Salaried,1568000,816,False,Savings account,1,2026-03-31
+DEMO-C00995,South,Business,1332000,768,True,Credit card | Current account | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C00996,South,Self-employed,477000,834,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C00997,North,Self-employed,1889000,704,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C00998,South,Self-employed,1305000,586,True,Fixed deposit | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C00999,West,Salaried,1968000,769,True,Fixed deposit | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01000,East,Business,2006000,608,True,Demat account | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C01001,West,Salaried,1034000,679,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01002,North,Self-employed,1152000,684,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C01003,West,Business,2095000,715,False,Auto loan | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01004,North,Salaried,1072000,563,True,Auto loan | Credit card | Current account | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C01005,South,Self-employed,1998000,797,True,Business loan | Demat account | Mutual fund | Term insurance,4,2026-03-31
+DEMO-C01006,North,Self-employed,684000,810,True,Savings account,1,2026-03-31
+DEMO-C01007,North,Salaried,1864000,829,True,Demat account | Savings account,2,2026-03-31
+DEMO-C01008,North,Salaried,2090000,579,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01009,South,Salaried,491000,782,True,Business loan | Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C01010,North,Business,2178000,736,True,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01011,North,Self-employed,2125000,836,False,Business loan | Demat account | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01012,North,Self-employed,765000,560,True,Credit card,1,2026-03-31
+DEMO-C01013,South,Self-employed,615000,607,False,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01014,South,Business,1962000,727,True,Business loan | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01015,West,Salaried,1626000,846,False,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01016,South,Self-employed,1537000,664,True,Demat account,1,2026-03-31
+DEMO-C01017,West,Salaried,1668000,809,False,Auto loan | Savings account,2,2026-03-31
+DEMO-C01018,South,Self-employed,939000,606,True,Auto loan | Business loan | Demat account | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C01019,West,Self-employed,835000,620,False,Savings account | Term insurance,2,2026-03-31
+DEMO-C01020,South,Salaried,823000,618,True,Savings account,1,2026-03-31
+DEMO-C01021,West,Salaried,1989000,571,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01022,West,Self-employed,834000,733,True,Business loan | Home loan | Personal loan,3,2026-03-31
+DEMO-C01023,West,Salaried,2062000,581,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01024,North,Salaried,1666000,732,False,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C01025,North,Salaried,1517000,812,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01026,North,Salaried,1314000,757,True,Auto loan | Business loan | Demat account | Fixed deposit | Personal loan,5,2026-03-31
+DEMO-C01027,South,Self-employed,536000,837,True,Current account | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01028,South,Salaried,986000,756,False,Business loan | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01029,East,Salaried,660000,831,False,Demat account | Mutual fund | Personal loan,3,2026-03-31
+DEMO-C01030,East,Salaried,2049000,637,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01031,South,Salaried,747000,616,True,,0,2026-03-31
+DEMO-C01032,West,Salaried,821000,766,True,Business loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01033,South,Salaried,1033000,775,True,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01034,North,Salaried,2396000,750,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01035,East,Self-employed,749000,772,True,Current account | Mutual fund,2,2026-03-31
+DEMO-C01036,North,Salaried,2230000,713,True,Auto loan | Mutual fund,2,2026-03-31
+DEMO-C01037,South,Self-employed,1789000,658,True,Auto loan | Credit card,2,2026-03-31
+DEMO-C01038,West,Salaried,1968000,693,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01039,North,Salaried,471000,625,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01040,East,Self-employed,1327000,566,True,Current account | Savings account,2,2026-03-31
+DEMO-C01041,North,Salaried,1648000,681,False,Business loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01042,North,Self-employed,1894000,772,False,Auto loan | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01043,West,Salaried,2034000,672,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01044,South,Self-employed,498000,716,False,Personal loan | Savings account,2,2026-03-31
+DEMO-C01045,West,Salaried,1740000,788,True,Auto loan | Demat account | Fixed deposit | Home loan | Savings account,5,2026-03-31
+DEMO-C01046,South,Salaried,1383000,825,False,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01047,East,Self-employed,491000,676,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C01048,West,Salaried,2147000,681,True,Credit card | Demat account | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C01049,East,Self-employed,479000,692,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C01050,North,Self-employed,2269000,738,True,Auto loan | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C01051,North,Self-employed,571000,642,True,Demat account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01052,South,Salaried,2319000,769,True,Auto loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01053,West,Salaried,666000,775,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01054,North,Salaried,1204000,648,True,Savings account,1,2026-03-31
+DEMO-C01055,South,Salaried,2367000,645,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01056,West,Business,1222000,816,True,Auto loan | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01057,North,Self-employed,1005000,826,True,Home loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C01058,South,Self-employed,1185000,754,True,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01059,South,Salaried,1684000,697,False,Auto loan | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01060,South,Self-employed,912000,830,True,Auto loan | Current account | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C01061,South,Salaried,1891000,827,True,Credit card | Demat account | Savings account | Term insurance,4,2026-03-31
+DEMO-C01062,East,Self-employed,1436000,800,False,Business loan | Credit card | Fixed deposit | Home loan | Personal loan | Savings account,6,2026-03-31
+DEMO-C01063,West,Self-employed,1516000,799,True,Home loan | Savings account,2,2026-03-31
+DEMO-C01064,South,Salaried,1093000,600,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01065,East,Self-employed,1823000,655,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01066,North,Salaried,1375000,726,False,Personal loan,1,2026-03-31
+DEMO-C01067,South,Self-employed,910000,751,True,Credit card | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01068,West,Business,432000,775,True,Auto loan | Business loan,2,2026-03-31
+DEMO-C01069,West,Self-employed,2376000,838,True,Demat account | Savings account,2,2026-03-31
+DEMO-C01070,North,Salaried,2114000,714,True,Auto loan | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C01071,North,Self-employed,1387000,730,False,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01072,South,Salaried,1855000,812,True,Demat account | Mutual fund | Personal loan,3,2026-03-31
+DEMO-C01073,North,Salaried,957000,603,True,Savings account,1,2026-03-31
+DEMO-C01074,North,Business,562000,562,True,Current account | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C01075,North,Salaried,1878000,828,True,Business loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01076,North,Business,1746000,697,True,Current account | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01077,West,Salaried,1054000,801,True,Business loan | Credit card | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01078,East,Salaried,1636000,846,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01079,North,Salaried,2278000,718,True,,0,2026-03-31
+DEMO-C01080,South,Self-employed,792000,805,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01081,North,Salaried,1501000,789,True,Credit card | Savings account | Term insurance,3,2026-03-31
+DEMO-C01082,North,Salaried,1300000,833,False,Credit card | Demat account | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01083,South,Business,471000,668,True,Demat account | Home loan | Mutual fund | Term insurance,4,2026-03-31
+DEMO-C01084,West,Salaried,2102000,824,False,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,8,2026-03-31
+DEMO-C01085,West,Salaried,1617000,840,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01086,South,Self-employed,833000,622,True,Savings account,1,2026-03-31
+DEMO-C01087,North,Salaried,490000,816,True,Term insurance,1,2026-03-31
+DEMO-C01088,North,Salaried,2216000,796,True,Home loan | Personal loan | Term insurance,3,2026-03-31
+DEMO-C01089,South,Salaried,674000,650,True,Fixed deposit | Home loan | Savings account,3,2026-03-31
+DEMO-C01090,West,Salaried,750000,560,True,Fixed deposit | Mutual fund | Term insurance,3,2026-03-31
+DEMO-C01091,South,Business,1686000,731,False,Current account | Demat account | Personal loan | Savings account,4,2026-03-31
+DEMO-C01092,West,Salaried,562000,591,False,Credit card | Home loan | Savings account,3,2026-03-31
+DEMO-C01093,West,Salaried,1105000,750,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C01094,West,Self-employed,2108000,823,True,Auto loan | Demat account | Fixed deposit | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01095,West,Self-employed,1026000,807,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01096,East,Business,1854000,814,True,Demat account | Home loan | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01097,East,Business,1107000,613,True,Current account | Savings account,2,2026-03-31
+DEMO-C01098,East,Self-employed,1131000,748,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C01099,North,Salaried,774000,709,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01100,South,Self-employed,1285000,617,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C01101,West,Self-employed,484000,602,True,,0,2026-03-31
+DEMO-C01102,West,Self-employed,2099000,791,True,Savings account,1,2026-03-31
+DEMO-C01103,South,Salaried,1515000,828,True,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01104,North,Self-employed,586000,674,True,Savings account,1,2026-03-31
+DEMO-C01105,East,Self-employed,1308000,572,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01106,North,Salaried,1535000,797,True,Personal loan,1,2026-03-31
+DEMO-C01107,East,Self-employed,872000,777,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01108,North,Self-employed,788000,828,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C01109,North,Salaried,1176000,669,True,Demat account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01110,South,Self-employed,457000,759,True,Auto loan | Credit card | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01111,North,Business,2149000,576,True,Business loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01112,North,Self-employed,2023000,600,True,Demat account,1,2026-03-31
+DEMO-C01113,West,Self-employed,1448000,786,True,Auto loan,1,2026-03-31
+DEMO-C01114,North,Self-employed,944000,719,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01115,North,Salaried,1872000,567,True,Credit card | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C01116,South,Business,1891000,598,False,Credit card | Current account | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01117,North,Salaried,1807000,784,True,Current account | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C01118,North,Business,2221000,800,False,Credit card | Current account | Home loan | Savings account,4,2026-03-31
+DEMO-C01119,South,Self-employed,1657000,575,True,Credit card | Current account | Demat account | Fixed deposit | Savings account,5,2026-03-31
+DEMO-C01120,South,Self-employed,467000,581,False,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01121,South,Self-employed,2221000,659,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01122,South,Salaried,860000,821,False,Auto loan | Business loan | Savings account,3,2026-03-31
+DEMO-C01123,West,Salaried,2229000,797,True,Credit card | Demat account | Fixed deposit | Home loan | Personal loan | Savings account,6,2026-03-31
+DEMO-C01124,West,Self-employed,1958000,795,False,Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01125,North,Self-employed,791000,755,True,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01126,West,Salaried,2366000,724,False,Auto loan,1,2026-03-31
+DEMO-C01127,North,Salaried,2061000,566,False,,0,2026-03-31
+DEMO-C01128,South,Salaried,464000,597,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01129,North,Business,1496000,567,True,Current account,1,2026-03-31
+DEMO-C01130,North,Salaried,902000,828,True,Credit card | Demat account | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C01131,South,Salaried,650000,710,True,,0,2026-03-31
+DEMO-C01132,South,Self-employed,1942000,843,True,Business loan | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01133,South,Salaried,2046000,588,False,Credit card | Savings account | Term insurance,3,2026-03-31
+DEMO-C01134,South,Self-employed,555000,600,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01135,South,Self-employed,2027000,637,True,Demat account,1,2026-03-31
+DEMO-C01136,East,Salaried,2079000,671,True,,0,2026-03-31
+DEMO-C01137,West,Salaried,982000,734,False,Auto loan,1,2026-03-31
+DEMO-C01138,East,Business,2075000,615,True,Home loan | Mutual fund | Term insurance,3,2026-03-31
+DEMO-C01139,West,Salaried,1652000,726,True,Auto loan | Credit card | Fixed deposit | Home loan | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01140,North,Salaried,812000,840,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01141,West,Business,1163000,823,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01142,East,Salaried,2310000,781,True,Auto loan | Credit card | Demat account | Home loan | Savings account,5,2026-03-31
+DEMO-C01143,North,Salaried,685000,596,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01144,South,Salaried,607000,623,False,Credit card | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C01145,West,Business,1766000,699,False,Business loan | Savings account,2,2026-03-31
+DEMO-C01146,West,Salaried,2200000,723,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01147,South,Self-employed,1447000,567,False,Auto loan | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01148,North,Salaried,871000,714,True,Credit card | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C01149,West,Salaried,739000,756,True,Auto loan | Demat account | Fixed deposit | Home loan | Mutual fund | Term insurance,6,2026-03-31
+DEMO-C01150,South,Salaried,1447000,740,True,Auto loan | Demat account | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01151,North,Salaried,1669000,610,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01152,South,Salaried,1646000,686,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01153,South,Self-employed,1677000,597,True,Mutual fund | Savings account | Term insurance,3,2026-03-31
+DEMO-C01154,West,Self-employed,1477000,697,True,Demat account | Mutual fund | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01155,South,Salaried,1713000,701,True,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01156,East,Business,1737000,592,True,Current account | Savings account,2,2026-03-31
+DEMO-C01157,South,Salaried,1488000,654,True,Credit card | Fixed deposit,2,2026-03-31
+DEMO-C01158,East,Salaried,677000,776,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01159,East,Salaried,1460000,670,False,Savings account | Term insurance,2,2026-03-31
+DEMO-C01160,West,Business,1386000,706,True,Business loan | Current account | Personal loan | Savings account,4,2026-03-31
+DEMO-C01161,South,Salaried,538000,819,True,Business loan | Personal loan,2,2026-03-31
+DEMO-C01162,West,Salaried,693000,732,False,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01163,South,Salaried,1446000,825,True,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account,7,2026-03-31
+DEMO-C01164,South,Business,1232000,704,True,Mutual fund | Savings account | Term insurance,3,2026-03-31
+DEMO-C01165,South,Salaried,1206000,576,False,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01166,South,Salaried,2358000,759,True,Auto loan | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01167,East,Salaried,1704000,630,True,Current account,1,2026-03-31
+DEMO-C01168,South,Salaried,1774000,685,True,Credit card | Demat account | Savings account | Term insurance,4,2026-03-31
+DEMO-C01169,North,Salaried,1414000,672,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01170,North,Self-employed,2057000,714,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01171,West,Self-employed,1084000,660,False,Savings account | Term insurance,2,2026-03-31
+DEMO-C01172,West,Salaried,2167000,819,True,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C01173,North,Salaried,2197000,712,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01174,South,Self-employed,984000,615,True,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01175,North,Salaried,1414000,645,True,Business loan | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C01176,West,Salaried,771000,576,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01177,South,Salaried,502000,761,False,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,8,2026-03-31
+DEMO-C01178,North,Salaried,626000,737,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01179,North,Salaried,1253000,611,True,Business loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01180,North,Salaried,1198000,655,False,Auto loan,1,2026-03-31
+DEMO-C01181,South,Self-employed,1327000,623,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01182,East,Salaried,1389000,656,True,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01183,North,Self-employed,794000,674,False,Auto loan | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01184,South,Salaried,1215000,581,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C01185,West,Salaried,769000,650,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01186,South,Salaried,1016000,715,True,Mutual fund,1,2026-03-31
+DEMO-C01187,North,Self-employed,1693000,624,False,Current account | Demat account | Savings account,3,2026-03-31
+DEMO-C01188,East,Self-employed,1134000,776,True,Business loan | Home loan | Savings account,3,2026-03-31
+DEMO-C01189,South,Self-employed,1832000,694,False,,0,2026-03-31
+DEMO-C01190,South,Salaried,920000,814,True,Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01191,South,Business,1994000,737,True,Current account | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C01192,North,Salaried,2047000,565,True,Auto loan | Credit card | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01193,North,Self-employed,1666000,807,True,Demat account | Fixed deposit | Home loan | Mutual fund | Term insurance,5,2026-03-31
+DEMO-C01194,South,Salaried,915000,649,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01195,North,Business,2114000,648,True,Savings account,1,2026-03-31
+DEMO-C01196,North,Self-employed,1580000,696,True,Credit card | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01197,North,Salaried,1713000,599,True,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01198,North,Salaried,1910000,665,False,Auto loan | Demat account | Fixed deposit | Savings account | Term insurance,5,2026-03-31
+DEMO-C01199,North,Salaried,404000,621,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01200,East,Salaried,1383000,627,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01201,West,Salaried,2251000,691,False,Savings account,1,2026-03-31
+DEMO-C01202,West,Business,524000,607,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01203,West,Salaried,2324000,560,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01204,South,Salaried,1813000,572,True,Demat account | Personal loan | Savings account,3,2026-03-31
+DEMO-C01205,East,Self-employed,1939000,731,False,Fixed deposit | Mutual fund,2,2026-03-31
+DEMO-C01206,West,Salaried,779000,725,True,Current account | Demat account | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C01207,West,Self-employed,455000,700,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C01208,South,Self-employed,1975000,623,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01209,North,Salaried,1535000,815,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C01210,West,Salaried,2073000,782,True,Auto loan | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C01211,North,Salaried,1215000,768,True,Credit card | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C01212,East,Salaried,1688000,677,True,Auto loan | Business loan | Fixed deposit | Savings account | Term insurance,5,2026-03-31
+DEMO-C01213,South,Self-employed,2001000,757,False,Auto loan | Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,8,2026-03-31
+DEMO-C01214,North,Business,1862000,818,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01215,North,Self-employed,1471000,739,True,Credit card | Fixed deposit | Personal loan,3,2026-03-31
+DEMO-C01216,South,Self-employed,1140000,710,True,Savings account,1,2026-03-31
+DEMO-C01217,West,Salaried,1863000,784,True,Demat account | Home loan | Mutual fund,3,2026-03-31
+DEMO-C01218,North,Self-employed,1586000,726,True,Personal loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01219,West,Salaried,960000,850,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01220,West,Salaried,1351000,808,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01221,South,Salaried,639000,827,True,Business loan | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01222,North,Salaried,1899000,744,False,Auto loan | Credit card | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,7,2026-03-31
+DEMO-C01223,North,Salaried,991000,666,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01224,North,Salaried,581000,596,True,Savings account,1,2026-03-31
+DEMO-C01225,South,Self-employed,1134000,595,True,Savings account,1,2026-03-31
+DEMO-C01226,North,Self-employed,1201000,720,True,Savings account,1,2026-03-31
+DEMO-C01227,North,Salaried,369000,703,True,Credit card,1,2026-03-31
+DEMO-C01228,North,Salaried,1204000,711,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C01229,South,Self-employed,2343000,822,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01230,South,Salaried,691000,635,True,Current account | Savings account,2,2026-03-31
+DEMO-C01231,South,Self-employed,1860000,821,False,Demat account | Personal loan | Savings account,3,2026-03-31
+DEMO-C01232,West,Salaried,2020000,683,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01233,North,Salaried,1607000,763,True,Credit card | Current account | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01234,North,Self-employed,2286000,806,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01235,South,Self-employed,866000,726,True,Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01236,North,Salaried,1134000,787,False,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01237,North,Self-employed,1926000,829,True,Auto loan | Demat account | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01238,West,Salaried,1078000,807,False,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01239,East,Salaried,1312000,643,True,Credit card | Demat account | Personal loan | Savings account,4,2026-03-31
+DEMO-C01240,West,Salaried,2215000,775,False,Auto loan | Credit card | Demat account | Home loan | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01241,West,Business,1949000,799,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01242,East,Salaried,434000,742,True,Demat account,1,2026-03-31
+DEMO-C01243,South,Self-employed,1075000,796,False,Home loan | Term insurance,2,2026-03-31
+DEMO-C01244,West,Business,1808000,570,False,Current account | Savings account,2,2026-03-31
+DEMO-C01245,South,Salaried,741000,568,True,Savings account,1,2026-03-31
+DEMO-C01246,South,Business,1600000,693,True,Current account | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01247,West,Salaried,697000,734,False,Auto loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C01248,South,Salaried,1028000,786,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01249,East,Salaried,567000,617,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C01250,North,Self-employed,1770000,682,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01251,South,Self-employed,453000,778,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01252,West,Salaried,676000,838,False,Current account | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C01253,West,Salaried,1144000,576,True,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01254,East,Business,1110000,732,True,Home loan | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C01255,West,Salaried,1288000,831,False,Credit card | Demat account | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C01256,South,Salaried,754000,622,False,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01257,East,Salaried,1994000,733,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C01258,East,Self-employed,1095000,603,True,,0,2026-03-31
+DEMO-C01259,North,Business,1926000,603,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01260,North,Salaried,522000,752,True,Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01261,South,Salaried,1916000,711,False,Auto loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01262,South,Self-employed,1779000,793,True,Credit card | Home loan | Personal loan | Term insurance,4,2026-03-31
+DEMO-C01263,North,Self-employed,1527000,749,True,Auto loan | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C01264,West,Self-employed,483000,629,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01265,East,Self-employed,812000,625,True,Savings account,1,2026-03-31
+DEMO-C01266,East,Salaried,688000,742,True,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01267,North,Salaried,1773000,612,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01268,South,Salaried,771000,695,True,,0,2026-03-31
+DEMO-C01269,South,Salaried,1192000,571,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01270,East,Self-employed,2145000,773,True,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01271,West,Business,1793000,648,False,Current account | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01272,South,Self-employed,890000,832,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01273,East,Business,1033000,751,True,Current account | Savings account,2,2026-03-31
+DEMO-C01274,North,Salaried,2337000,756,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01275,West,Salaried,1320000,674,True,Business loan | Credit card | Demat account | Personal loan | Savings account,5,2026-03-31
+DEMO-C01276,West,Self-employed,624000,588,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C01277,West,Salaried,1718000,563,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01278,South,Salaried,386000,751,True,Savings account,1,2026-03-31
+DEMO-C01279,West,Business,2136000,732,False,Current account | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01280,East,Salaried,844000,659,True,Current account | Demat account,2,2026-03-31
+DEMO-C01281,South,Salaried,512000,763,True,Personal loan,1,2026-03-31
+DEMO-C01282,South,Self-employed,518000,689,True,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01283,North,Self-employed,2048000,760,False,Auto loan | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C01284,North,Self-employed,1850000,747,True,Demat account | Savings account | Term insurance,3,2026-03-31
+DEMO-C01285,East,Self-employed,2365000,716,True,Mutual fund | Savings account | Term insurance,3,2026-03-31
+DEMO-C01286,South,Salaried,734000,689,True,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01287,North,Salaried,986000,763,True,Savings account,1,2026-03-31
+DEMO-C01288,West,Salaried,1498000,770,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01289,West,Self-employed,1480000,605,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01290,South,Salaried,1250000,707,False,Savings account,1,2026-03-31
+DEMO-C01291,North,Salaried,1339000,753,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01292,East,Salaried,1128000,765,True,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01293,North,Business,1186000,563,True,,0,2026-03-31
+DEMO-C01294,West,Self-employed,1341000,743,True,Auto loan | Credit card | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01295,South,Salaried,1308000,629,False,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01296,South,Salaried,1957000,843,False,Mutual fund | Savings account | Term insurance,3,2026-03-31
+DEMO-C01297,West,Business,1488000,651,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01298,South,Salaried,968000,819,True,Business loan | Credit card | Demat account | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,8,2026-03-31
+DEMO-C01299,South,Salaried,1438000,844,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01300,North,Salaried,2100000,702,True,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C01301,North,Salaried,1773000,832,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01302,South,Business,1726000,650,True,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C01303,North,Salaried,948000,680,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C01304,West,Self-employed,540000,744,False,Auto loan | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01305,North,Self-employed,1463000,723,True,,0,2026-03-31
+DEMO-C01306,North,Salaried,1903000,645,False,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01307,West,Salaried,592000,769,True,Auto loan | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01308,South,Salaried,1011000,577,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01309,North,Self-employed,1238000,719,False,Auto loan | Business loan | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01310,West,Salaried,987000,637,True,Credit card | Savings account | Term insurance,3,2026-03-31
+DEMO-C01311,South,Business,1096000,785,True,Current account | Personal loan,2,2026-03-31
+DEMO-C01312,North,Business,455000,608,True,Credit card | Current account | Savings account,3,2026-03-31
+DEMO-C01313,West,Self-employed,2358000,836,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C01314,West,Salaried,2248000,764,True,Auto loan | Credit card | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C01315,South,Salaried,2337000,650,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01316,West,Business,864000,776,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01317,South,Salaried,1507000,623,True,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01318,West,Self-employed,1484000,608,True,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01319,South,Self-employed,1121000,737,True,Business loan | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C01320,East,Salaried,2264000,605,True,,0,2026-03-31
+DEMO-C01321,North,Salaried,1973000,675,True,Home loan,1,2026-03-31
+DEMO-C01322,East,Salaried,821000,672,True,Business loan | Savings account,2,2026-03-31
+DEMO-C01323,South,Salaried,1466000,690,False,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C01324,North,Business,686000,605,False,Demat account | Savings account,2,2026-03-31
+DEMO-C01325,North,Business,1672000,793,False,Credit card | Current account | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C01326,North,Salaried,1267000,614,True,Current account | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C01327,South,Self-employed,616000,702,True,Savings account,1,2026-03-31
+DEMO-C01328,West,Self-employed,2203000,703,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01329,South,Self-employed,2184000,761,True,Auto loan | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01330,West,Salaried,1927000,810,True,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01331,West,Salaried,559000,747,True,Auto loan,1,2026-03-31
+DEMO-C01332,South,Business,1918000,580,True,Credit card | Current account | Demat account | Fixed deposit | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01333,West,Business,2298000,662,False,Auto loan | Current account | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01334,South,Business,1671000,799,True,Auto loan | Current account | Fixed deposit,3,2026-03-31
+DEMO-C01335,West,Salaried,789000,763,False,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01336,West,Salaried,2359000,724,True,Mutual fund | Savings account | Term insurance,3,2026-03-31
+DEMO-C01337,South,Business,1007000,736,False,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01338,South,Salaried,938000,676,True,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01339,South,Salaried,2038000,683,True,Demat account | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C01340,North,Salaried,1340000,574,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01341,West,Salaried,1205000,831,True,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01342,West,Salaried,1842000,578,True,Credit card | Demat account | Personal loan,3,2026-03-31
+DEMO-C01343,West,Self-employed,1129000,707,True,Auto loan | Current account | Savings account,3,2026-03-31
+DEMO-C01344,West,Salaried,1081000,737,True,Business loan | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C01345,North,Self-employed,1685000,777,True,Savings account,1,2026-03-31
+DEMO-C01346,South,Salaried,1377000,652,True,Savings account,1,2026-03-31
+DEMO-C01347,North,Salaried,2166000,801,True,Auto loan | Current account | Fixed deposit | Personal loan,4,2026-03-31
+DEMO-C01348,West,Self-employed,2169000,646,True,Credit card | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C01349,North,Salaried,1119000,698,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01350,North,Business,1755000,789,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C01351,North,Salaried,2101000,631,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01352,North,Salaried,1092000,759,True,Current account | Personal loan | Savings account,3,2026-03-31
+DEMO-C01353,North,Self-employed,2286000,597,False,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01354,East,Salaried,980000,579,False,Credit card | Current account,2,2026-03-31
+DEMO-C01355,East,Salaried,390000,583,False,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01356,West,Salaried,1974000,816,True,Demat account | Home loan | Mutual fund | Personal loan | Term insurance,5,2026-03-31
+DEMO-C01357,West,Salaried,1938000,831,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01358,South,Self-employed,1702000,663,False,Credit card | Demat account | Home loan | Savings account,4,2026-03-31
+DEMO-C01359,West,Salaried,1749000,848,True,Savings account,1,2026-03-31
+DEMO-C01360,North,Self-employed,1030000,710,False,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C01361,South,Salaried,992000,796,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01362,East,Business,1539000,656,True,Personal loan,1,2026-03-31
+DEMO-C01363,North,Salaried,461000,850,True,Auto loan | Personal loan,2,2026-03-31
+DEMO-C01364,West,Salaried,2107000,592,False,Savings account,1,2026-03-31
+DEMO-C01365,South,Salaried,841000,587,False,Credit card | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01366,South,Salaried,1552000,701,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C01367,South,Salaried,2345000,830,True,Auto loan | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01368,East,Self-employed,2371000,805,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01369,South,Salaried,2155000,649,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01370,North,Salaried,1444000,841,False,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C01371,West,Salaried,583000,647,True,Business loan | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01372,North,Salaried,1815000,623,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01373,West,Self-employed,2234000,757,True,Business loan | Demat account | Savings account,3,2026-03-31
+DEMO-C01374,West,Salaried,647000,773,True,Credit card | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C01375,East,Salaried,2257000,565,True,Fixed deposit,1,2026-03-31
+DEMO-C01376,West,Salaried,2228000,632,False,Demat account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C01377,East,Salaried,896000,697,True,Savings account,1,2026-03-31
+DEMO-C01378,West,Salaried,815000,699,True,Business loan | Fixed deposit | Home loan | Savings account,4,2026-03-31
+DEMO-C01379,West,Salaried,662000,577,False,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01380,North,Business,2320000,606,False,Savings account | Term insurance,2,2026-03-31
+DEMO-C01381,North,Salaried,1242000,815,True,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C01382,East,Salaried,2100000,817,False,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C01383,East,Salaried,1559000,734,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01384,South,Salaried,413000,648,True,Credit card | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01385,South,Salaried,2372000,687,True,Auto loan,1,2026-03-31
+DEMO-C01386,East,Salaried,2263000,767,False,Auto loan | Home loan | Term insurance,3,2026-03-31
+DEMO-C01387,North,Salaried,1829000,691,True,Savings account,1,2026-03-31
+DEMO-C01388,North,Self-employed,2274000,599,True,Business loan | Fixed deposit | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01389,South,Self-employed,1905000,794,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01390,South,Salaried,2169000,797,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01391,West,Self-employed,1594000,636,True,Demat account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C01392,West,Salaried,1487000,835,True,Home loan,1,2026-03-31
+DEMO-C01393,South,Salaried,1753000,566,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01394,North,Salaried,2192000,582,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01395,South,Self-employed,736000,636,True,,0,2026-03-31
+DEMO-C01396,North,Salaried,1459000,730,False,Credit card | Savings account,2,2026-03-31
+DEMO-C01397,South,Self-employed,1254000,769,False,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C01398,South,Self-employed,1366000,632,True,Savings account,1,2026-03-31
+DEMO-C01399,West,Salaried,371000,750,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01400,South,Salaried,2153000,828,True,Demat account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C01401,North,Self-employed,554000,614,True,Savings account,1,2026-03-31
+DEMO-C01402,North,Salaried,418000,680,True,Business loan | Fixed deposit | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C01403,South,Salaried,1651000,732,True,Savings account,1,2026-03-31
+DEMO-C01404,North,Salaried,2098000,741,True,Credit card | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01405,South,Salaried,1518000,813,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01406,South,Business,1628000,577,True,Credit card | Current account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01407,North,Salaried,1904000,610,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01408,West,Business,1845000,757,True,Current account | Savings account,2,2026-03-31
+DEMO-C01409,East,Self-employed,1719000,777,True,Auto loan | Current account | Personal loan | Savings account,4,2026-03-31
+DEMO-C01410,West,Salaried,778000,849,True,Auto loan | Business loan | Demat account | Mutual fund,4,2026-03-31
+DEMO-C01411,South,Business,574000,804,True,Current account | Fixed deposit | Personal loan,3,2026-03-31
+DEMO-C01412,North,Salaried,2267000,818,False,Auto loan | Mutual fund | Personal loan | Term insurance,4,2026-03-31
+DEMO-C01413,East,Salaried,1569000,809,False,Auto loan | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01414,South,Salaried,1998000,753,True,,0,2026-03-31
+DEMO-C01415,West,Salaried,2354000,660,True,Fixed deposit | Home loan | Savings account,3,2026-03-31
+DEMO-C01416,West,Salaried,1145000,802,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C01417,West,Salaried,2325000,785,True,Current account | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01418,East,Self-employed,1326000,648,True,,0,2026-03-31
+DEMO-C01419,West,Self-employed,621000,576,True,Term insurance,1,2026-03-31
+DEMO-C01420,North,Salaried,408000,566,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01421,South,Salaried,2371000,721,True,Auto loan | Credit card | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01422,South,Salaried,1210000,812,True,Auto loan | Credit card | Home loan | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01423,South,Self-employed,1921000,845,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01424,North,Salaried,2173000,797,True,Home loan | Personal loan,2,2026-03-31
+DEMO-C01425,South,Business,2101000,825,True,Demat account | Home loan | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C01426,South,Self-employed,1256000,798,True,Credit card | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01427,West,Salaried,1020000,790,True,Personal loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01428,East,Salaried,627000,814,True,Credit card,1,2026-03-31
+DEMO-C01429,South,Salaried,1381000,767,True,Credit card | Home loan | Mutual fund | Personal loan | Term insurance,5,2026-03-31
+DEMO-C01430,South,Business,1239000,590,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C01431,West,Business,1721000,676,True,Auto loan | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01432,West,Salaried,1854000,636,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01433,South,Self-employed,1649000,813,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01434,East,Salaried,571000,711,True,Savings account,1,2026-03-31
+DEMO-C01435,West,Salaried,479000,591,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01436,South,Salaried,509000,637,True,Current account,1,2026-03-31
+DEMO-C01437,South,Self-employed,487000,580,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01438,North,Salaried,1076000,764,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01439,North,Business,504000,788,False,Business loan | Home loan | Term insurance,3,2026-03-31
+DEMO-C01440,South,Business,1545000,785,True,Current account | Demat account | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C01441,North,Business,1402000,844,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C01442,West,Salaried,2110000,712,True,Credit card | Demat account | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01443,North,Business,1462000,590,True,,0,2026-03-31
+DEMO-C01444,North,Salaried,1060000,786,True,Auto loan | Demat account,2,2026-03-31
+DEMO-C01445,North,Salaried,1703000,612,False,Current account | Savings account,2,2026-03-31
+DEMO-C01446,West,Salaried,872000,608,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01447,East,Salaried,992000,762,True,Business loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01448,South,Self-employed,1298000,587,True,Savings account,1,2026-03-31
+DEMO-C01449,West,Business,1023000,660,False,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01450,North,Salaried,838000,849,True,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C01451,North,Salaried,644000,742,True,Savings account,1,2026-03-31
+DEMO-C01452,South,Self-employed,1656000,731,True,Auto loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01453,West,Salaried,1784000,744,True,Business loan | Credit card | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01454,North,Salaried,1533000,609,False,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01455,West,Salaried,1495000,844,False,Business loan | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C01456,West,Salaried,1870000,576,True,Auto loan | Credit card | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01457,West,Salaried,2303000,733,False,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01458,North,Salaried,1297000,598,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01459,North,Salaried,1988000,776,True,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C01460,East,Self-employed,1213000,833,False,Fixed deposit | Home loan | Savings account,3,2026-03-31
+DEMO-C01461,South,Salaried,1735000,713,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C01462,West,Salaried,1471000,608,False,Credit card | Savings account,2,2026-03-31
+DEMO-C01463,South,Salaried,721000,813,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C01464,West,Salaried,1686000,796,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01465,North,Salaried,548000,755,True,Credit card | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01466,North,Salaried,625000,636,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C01467,West,Salaried,1768000,686,True,Mutual fund,1,2026-03-31
+DEMO-C01468,South,Salaried,1655000,713,True,Auto loan,1,2026-03-31
+DEMO-C01469,West,Business,1067000,633,False,Personal loan,1,2026-03-31
+DEMO-C01470,West,Self-employed,1177000,780,True,Auto loan | Credit card | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01471,West,Salaried,1344000,817,True,Business loan | Personal loan,2,2026-03-31
+DEMO-C01472,North,Salaried,872000,823,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C01473,West,Self-employed,1137000,714,True,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01474,South,Salaried,1169000,755,True,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01475,North,Salaried,2250000,646,True,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01476,North,Salaried,1343000,789,True,Business loan | Current account | Demat account | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C01477,North,Salaried,1934000,652,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01478,West,Self-employed,1849000,817,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C01479,West,Self-employed,534000,648,True,Current account | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01480,West,Business,458000,826,True,Credit card | Current account | Fixed deposit | Home loan | Savings account,5,2026-03-31
+DEMO-C01481,West,Salaried,849000,693,True,Auto loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C01482,West,Self-employed,384000,755,True,Home loan | Savings account,2,2026-03-31
+DEMO-C01483,North,Self-employed,698000,563,True,Current account | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01484,West,Self-employed,901000,597,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01485,South,Self-employed,1159000,602,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01486,North,Salaried,1437000,781,False,Auto loan | Credit card | Demat account | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01487,West,Self-employed,675000,711,False,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01488,West,Self-employed,1528000,584,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01489,East,Salaried,1578000,720,True,Demat account | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C01490,North,Self-employed,2246000,672,True,Business loan | Savings account,2,2026-03-31
+DEMO-C01491,North,Salaried,932000,809,True,,0,2026-03-31
+DEMO-C01492,North,Business,2144000,651,True,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01493,West,Salaried,1287000,710,True,Auto loan | Demat account | Home loan | Mutual fund,4,2026-03-31
+DEMO-C01494,West,Salaried,516000,806,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01495,West,Salaried,693000,739,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01496,South,Salaried,1396000,692,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01497,South,Business,671000,792,True,Current account | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01498,North,Salaried,1073000,662,True,Auto loan | Home loan | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01499,West,Self-employed,1856000,850,True,Auto loan | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01500,North,Salaried,587000,847,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C01501,North,Salaried,1969000,748,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C01502,West,Self-employed,2187000,640,True,Savings account,1,2026-03-31
+DEMO-C01503,South,Business,753000,698,True,Business loan | Savings account,2,2026-03-31
+DEMO-C01504,South,Salaried,831000,684,True,Fixed deposit | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01505,North,Salaried,1566000,703,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01506,South,Business,415000,685,False,Current account | Savings account | Term insurance,3,2026-03-31
+DEMO-C01507,West,Salaried,2223000,844,False,Demat account | Mutual fund,2,2026-03-31
+DEMO-C01508,West,Self-employed,486000,595,True,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01509,East,Self-employed,674000,630,True,Current account,1,2026-03-31
+DEMO-C01510,South,Business,945000,712,True,Auto loan | Current account | Savings account,3,2026-03-31
+DEMO-C01511,East,Salaried,1548000,808,True,Auto loan | Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01512,West,Business,1423000,636,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01513,East,Self-employed,837000,837,True,Auto loan | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01514,West,Salaried,400000,643,True,Demat account,1,2026-03-31
+DEMO-C01515,West,Salaried,484000,802,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01516,West,Salaried,901000,563,False,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01517,North,Self-employed,1317000,581,True,Credit card,1,2026-03-31
+DEMO-C01518,North,Salaried,982000,763,False,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01519,South,Salaried,1279000,732,False,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01520,North,Salaried,2350000,622,True,Credit card | Current account | Demat account | Fixed deposit | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01521,South,Business,1810000,833,True,Demat account | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01522,South,Business,1061000,563,True,Savings account,1,2026-03-31
+DEMO-C01523,North,Self-employed,390000,655,True,Savings account,1,2026-03-31
+DEMO-C01524,West,Salaried,1848000,846,True,,0,2026-03-31
+DEMO-C01525,West,Self-employed,741000,818,False,Home loan | Personal loan,2,2026-03-31
+DEMO-C01526,South,Salaried,1751000,806,True,Credit card | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01527,South,Salaried,477000,782,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01528,South,Salaried,813000,694,True,Auto loan | Business loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C01529,West,Self-employed,976000,586,False,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01530,North,Salaried,1315000,569,True,Credit card | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01531,South,Salaried,1299000,712,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01532,South,Self-employed,1283000,741,True,Demat account | Fixed deposit | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C01533,North,Salaried,972000,699,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01534,South,Business,875000,829,True,Credit card | Current account | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01535,East,Salaried,2129000,764,False,Auto loan | Business loan | Demat account | Mutual fund,4,2026-03-31
+DEMO-C01536,South,Salaried,1545000,679,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C01537,West,Business,1138000,844,False,Credit card | Current account | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01538,West,Salaried,2173000,815,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01539,West,Salaried,1150000,748,True,Personal loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01540,East,Self-employed,1393000,685,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01541,North,Self-employed,823000,781,True,Savings account,1,2026-03-31
+DEMO-C01542,South,Self-employed,612000,614,True,Business loan | Savings account,2,2026-03-31
+DEMO-C01543,West,Salaried,2015000,592,True,Savings account,1,2026-03-31
+DEMO-C01544,North,Self-employed,1158000,570,True,Savings account,1,2026-03-31
+DEMO-C01545,West,Self-employed,1292000,709,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01546,North,Salaried,1754000,698,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01547,North,Self-employed,973000,697,False,Auto loan | Credit card | Savings account,3,2026-03-31
+DEMO-C01548,South,Salaried,559000,715,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01549,West,Business,975000,693,False,Current account | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01550,East,Salaried,996000,658,False,Business loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C01551,North,Business,1779000,758,False,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01552,South,Salaried,1185000,641,True,,0,2026-03-31
+DEMO-C01553,West,Salaried,2250000,741,False,Business loan | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01554,North,Business,505000,612,True,Auto loan,1,2026-03-31
+DEMO-C01555,West,Salaried,844000,630,False,Fixed deposit | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C01556,West,Salaried,1133000,739,True,Demat account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01557,North,Self-employed,844000,702,False,Business loan | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01558,West,Salaried,1393000,770,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01559,West,Self-employed,1848000,838,True,Savings account,1,2026-03-31
+DEMO-C01560,West,Business,2314000,720,True,Credit card | Current account | Demat account | Fixed deposit | Personal loan | Savings account,6,2026-03-31
+DEMO-C01561,North,Salaried,1386000,641,True,Credit card | Home loan | Savings account,3,2026-03-31
+DEMO-C01562,South,Salaried,763000,830,True,Credit card | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01563,East,Business,2183000,704,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01564,East,Business,2293000,795,True,Current account | Savings account,2,2026-03-31
+DEMO-C01565,East,Business,794000,842,False,Auto loan | Current account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C01566,West,Self-employed,830000,732,False,Auto loan | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01567,East,Salaried,652000,710,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01568,South,Business,1170000,616,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01569,West,Self-employed,1919000,714,True,Demat account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C01570,South,Salaried,1544000,813,True,Home loan | Personal loan | Term insurance,3,2026-03-31
+DEMO-C01571,West,Self-employed,922000,725,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01572,South,Salaried,2118000,809,True,Demat account | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01573,North,Self-employed,2296000,749,True,Credit card | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01574,West,Self-employed,875000,792,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C01575,South,Business,1990000,842,True,Auto loan | Credit card | Personal loan | Term insurance,4,2026-03-31
+DEMO-C01576,East,Business,2331000,693,True,Demat account,1,2026-03-31
+DEMO-C01577,South,Self-employed,1626000,812,True,Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01578,South,Salaried,1887000,769,False,Demat account | Fixed deposit | Mutual fund | Personal loan,4,2026-03-31
+DEMO-C01579,South,Self-employed,681000,839,False,Demat account | Personal loan | Savings account,3,2026-03-31
+DEMO-C01580,West,Self-employed,738000,837,True,Credit card | Fixed deposit | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C01581,South,Salaried,2257000,655,True,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01582,South,Salaried,2277000,841,True,Auto loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01583,South,Salaried,768000,746,True,Auto loan | Business loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C01584,North,Business,2077000,632,True,Current account,1,2026-03-31
+DEMO-C01585,West,Business,473000,678,True,Fixed deposit | Savings account | Term insurance,3,2026-03-31
+DEMO-C01586,North,Self-employed,1533000,638,True,Savings account,1,2026-03-31
+DEMO-C01587,West,Business,1933000,629,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01588,South,Salaried,2233000,699,False,Personal loan | Savings account,2,2026-03-31
+DEMO-C01589,West,Salaried,582000,796,False,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01590,North,Salaried,1757000,632,False,Auto loan | Demat account | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01591,North,Salaried,1067000,637,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01592,West,Salaried,874000,567,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01593,South,Self-employed,626000,636,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01594,South,Business,449000,809,True,Auto loan | Current account | Savings account,3,2026-03-31
+DEMO-C01595,West,Self-employed,1587000,607,False,Savings account,1,2026-03-31
+DEMO-C01596,South,Self-employed,1389000,646,True,Demat account | Savings account,2,2026-03-31
+DEMO-C01597,West,Self-employed,1690000,585,False,Credit card | Demat account | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01598,South,Salaried,2400000,849,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01599,West,Salaried,881000,561,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C01600,South,Business,956000,708,True,Credit card | Fixed deposit | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01601,South,Salaried,2207000,800,True,Demat account | Mutual fund | Term insurance,3,2026-03-31
+DEMO-C01602,West,Self-employed,930000,779,True,Auto loan | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01603,North,Salaried,951000,839,True,Auto loan | Personal loan,2,2026-03-31
+DEMO-C01604,South,Self-employed,2096000,701,False,Current account | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01605,South,Salaried,1248000,776,True,Business loan | Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01606,North,Salaried,1779000,680,True,Demat account | Fixed deposit | Home loan | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01607,North,Business,2171000,675,True,Current account | Demat account | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01608,South,Salaried,1967000,712,True,Auto loan | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01609,North,Salaried,979000,733,False,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01610,West,Business,788000,626,True,Business loan | Current account | Personal loan,3,2026-03-31
+DEMO-C01611,North,Salaried,920000,587,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01612,South,Salaried,1186000,647,False,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01613,North,Business,556000,811,True,Current account | Savings account,2,2026-03-31
+DEMO-C01614,North,Salaried,610000,675,False,Credit card | Savings account,2,2026-03-31
+DEMO-C01615,West,Business,2386000,693,True,Current account | Demat account | Mutual fund | Term insurance,4,2026-03-31
+DEMO-C01616,South,Salaried,2317000,636,False,,0,2026-03-31
+DEMO-C01617,South,Self-employed,1304000,804,True,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C01618,West,Salaried,1049000,722,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C01619,West,Salaried,764000,651,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01620,West,Self-employed,1010000,609,True,Demat account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01621,East,Salaried,1303000,790,False,Demat account | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C01622,North,Self-employed,753000,587,False,Credit card | Savings account,2,2026-03-31
+DEMO-C01623,North,Salaried,1605000,778,True,Mutual fund | Personal loan,2,2026-03-31
+DEMO-C01624,South,Salaried,671000,702,True,Business loan,1,2026-03-31
+DEMO-C01625,West,Self-employed,1459000,661,True,Business loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01626,North,Salaried,1621000,573,True,Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01627,West,Business,1332000,754,True,Current account | Savings account,2,2026-03-31
+DEMO-C01628,South,Salaried,2241000,824,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01629,South,Self-employed,2298000,628,False,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01630,South,Business,2057000,596,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01631,North,Salaried,1763000,770,False,Fixed deposit | Home loan | Savings account,3,2026-03-31
+DEMO-C01632,East,Salaried,1835000,718,False,Demat account | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C01633,South,Business,1620000,808,False,Current account,1,2026-03-31
+DEMO-C01634,North,Salaried,693000,775,True,Auto loan | Business loan | Credit card | Savings account,4,2026-03-31
+DEMO-C01635,West,Salaried,1165000,842,True,Auto loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C01636,West,Self-employed,2123000,695,True,Demat account | Mutual fund | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01637,South,Business,561000,768,True,Home loan | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01638,South,Salaried,803000,717,True,Auto loan | Fixed deposit | Home loan | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C01639,South,Salaried,1865000,609,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01640,East,Business,2005000,651,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01641,North,Salaried,1765000,580,False,Demat account,1,2026-03-31
+DEMO-C01642,West,Salaried,1321000,728,True,Auto loan | Savings account,2,2026-03-31
+DEMO-C01643,East,Salaried,1266000,711,False,Savings account,1,2026-03-31
+DEMO-C01644,East,Self-employed,442000,715,True,Business loan | Savings account,2,2026-03-31
+DEMO-C01645,West,Salaried,1129000,748,True,Credit card | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01646,South,Salaried,1903000,585,True,Demat account | Mutual fund,2,2026-03-31
+DEMO-C01647,South,Self-employed,2251000,616,True,Fixed deposit | Mutual fund,2,2026-03-31
+DEMO-C01648,North,Salaried,2278000,846,True,Auto loan | Credit card | Demat account | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,8,2026-03-31
+DEMO-C01649,West,Salaried,1694000,592,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01650,North,Salaried,1163000,638,True,Business loan | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01651,North,Self-employed,1241000,571,True,Savings account,1,2026-03-31
+DEMO-C01652,North,Self-employed,2305000,560,False,Current account | Demat account | Mutual fund | Term insurance,4,2026-03-31
+DEMO-C01653,South,Salaried,1458000,717,False,Fixed deposit | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01654,South,Self-employed,1158000,812,True,Credit card | Home loan | Personal loan | Term insurance,4,2026-03-31
+DEMO-C01655,West,Salaried,994000,761,True,Demat account | Fixed deposit | Mutual fund,3,2026-03-31
+DEMO-C01656,South,Salaried,2211000,795,True,Credit card | Current account | Fixed deposit | Home loan | Savings account | Term insurance,6,2026-03-31
+DEMO-C01657,East,Salaried,1511000,658,True,Business loan | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01658,West,Salaried,411000,602,False,,0,2026-03-31
+DEMO-C01659,North,Self-employed,1302000,830,False,Demat account | Savings account,2,2026-03-31
+DEMO-C01660,North,Salaried,889000,731,True,Business loan | Savings account,2,2026-03-31
+DEMO-C01661,West,Self-employed,665000,622,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01662,West,Self-employed,372000,736,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01663,South,Salaried,1310000,617,True,Business loan | Credit card | Current account | Demat account | Mutual fund | Savings account,6,2026-03-31
+DEMO-C01664,West,Salaried,573000,746,True,Home loan | Savings account,2,2026-03-31
+DEMO-C01665,North,Salaried,1238000,745,False,Auto loan | Credit card | Demat account | Personal loan | Savings account,5,2026-03-31
+DEMO-C01666,East,Salaried,772000,731,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01667,West,Business,1006000,767,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01668,West,Salaried,782000,679,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01669,North,Salaried,2258000,755,True,Credit card | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01670,South,Salaried,506000,566,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01671,North,Self-employed,1254000,561,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01672,West,Self-employed,2055000,687,True,Savings account,1,2026-03-31
+DEMO-C01673,East,Salaried,812000,821,True,Credit card | Demat account | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01674,South,Salaried,854000,699,True,Demat account | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01675,South,Salaried,2084000,667,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01676,South,Business,1830000,689,True,Auto loan | Business loan | Current account | Demat account | Fixed deposit | Mutual fund | Savings account,7,2026-03-31
+DEMO-C01677,West,Salaried,1865000,585,True,,0,2026-03-31
+DEMO-C01678,North,Salaried,1914000,639,True,Savings account,1,2026-03-31
+DEMO-C01679,West,Salaried,1978000,614,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01680,North,Salaried,2340000,775,False,Demat account | Home loan | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01681,East,Self-employed,2261000,750,False,Demat account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01682,South,Business,451000,738,False,Auto loan | Savings account,2,2026-03-31
+DEMO-C01683,North,Salaried,1778000,846,True,Auto loan | Personal loan | Term insurance,3,2026-03-31
+DEMO-C01684,West,Salaried,1231000,848,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01685,West,Self-employed,1613000,692,True,Credit card,1,2026-03-31
+DEMO-C01686,West,Salaried,378000,617,False,Auto loan | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
+DEMO-C01687,South,Salaried,1699000,775,True,Business loan | Fixed deposit | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01688,South,Self-employed,517000,661,True,Personal loan | Savings account,2,2026-03-31
+DEMO-C01689,West,Salaried,1076000,737,True,Business loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C01690,West,Salaried,2292000,609,False,Auto loan | Savings account,2,2026-03-31
+DEMO-C01691,North,Salaried,601000,655,True,Current account | Demat account | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C01692,North,Salaried,747000,623,True,Credit card | Home loan,2,2026-03-31
+DEMO-C01693,North,Salaried,1359000,802,False,Current account | Demat account | Home loan | Mutual fund | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C01694,North,Salaried,1045000,819,True,Personal loan,1,2026-03-31
+DEMO-C01695,West,Self-employed,2001000,767,False,Auto loan | Demat account | Mutual fund,3,2026-03-31
+DEMO-C01696,South,Business,1024000,568,True,Savings account,1,2026-03-31
+DEMO-C01697,North,Salaried,2156000,757,True,Business loan | Demat account | Mutual fund | Personal loan | Savings account,5,2026-03-31
+DEMO-C01698,West,Salaried,525000,698,True,Auto loan | Credit card | Fixed deposit | Personal loan | Savings account,5,2026-03-31
+DEMO-C01699,North,Salaried,1434000,817,True,Credit card | Current account | Savings account,3,2026-03-31
+DEMO-C01700,West,Salaried,1663000,756,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01701,South,Self-employed,875000,632,True,Savings account,1,2026-03-31
+DEMO-C01702,West,Salaried,1087000,738,True,Credit card | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01703,West,Business,1731000,724,False,Demat account | Mutual fund | Savings account | Term insurance,4,2026-03-31
+DEMO-C01704,North,Salaried,981000,663,True,Business loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C01705,North,Salaried,1330000,564,True,Auto loan | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01706,East,Self-employed,463000,616,True,Demat account | Savings account,2,2026-03-31
+DEMO-C01707,North,Self-employed,1200000,599,True,Home loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01708,West,Self-employed,814000,842,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01709,South,Self-employed,693000,732,True,Auto loan | Business loan | Credit card | Demat account | Home loan | Mutual fund | Personal loan | Savings account,8,2026-03-31
+DEMO-C01710,West,Salaried,752000,841,False,Auto loan | Business loan | Demat account | Home loan | Mutual fund | Personal loan | Savings account,7,2026-03-31
+DEMO-C01711,South,Self-employed,1663000,788,False,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01712,South,Self-employed,2274000,575,True,Savings account,1,2026-03-31
+DEMO-C01713,West,Salaried,395000,748,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01714,West,Self-employed,500000,832,True,Auto loan | Credit card | Fixed deposit | Home loan | Personal loan | Savings account | Term insurance,7,2026-03-31
+DEMO-C01715,North,Salaried,1430000,707,True,Current account | Demat account | Savings account,3,2026-03-31
+DEMO-C01716,North,Business,486000,683,False,Fixed deposit,1,2026-03-31
+DEMO-C01717,North,Self-employed,412000,713,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C01718,North,Self-employed,994000,783,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01719,East,Salaried,1985000,742,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01720,North,Self-employed,1630000,645,False,Savings account,1,2026-03-31
+DEMO-C01721,North,Business,545000,806,False,Auto loan | Credit card | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01722,North,Self-employed,713000,575,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01723,South,Salaried,1366000,792,True,Home loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C01724,North,Salaried,1788000,581,True,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01725,South,Self-employed,2385000,567,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01726,North,Self-employed,817000,811,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01727,West,Business,1533000,696,True,Current account | Demat account | Savings account,3,2026-03-31
+DEMO-C01728,West,Salaried,2106000,583,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01729,South,Self-employed,2336000,726,False,Auto loan | Demat account | Fixed deposit | Mutual fund | Personal loan,5,2026-03-31
+DEMO-C01730,North,Self-employed,2398000,769,False,Demat account | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01731,East,Salaried,1211000,582,False,Credit card | Demat account | Home loan | Mutual fund | Savings account | Term insurance,6,2026-03-31
+DEMO-C01732,West,Business,1153000,745,True,Business loan | Fixed deposit | Personal loan | Savings account,4,2026-03-31
+DEMO-C01733,West,Salaried,1751000,819,True,Auto loan | Demat account | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01734,West,Business,1920000,837,True,Auto loan | Business loan | Credit card | Fixed deposit | Savings account | Term insurance,6,2026-03-31
+DEMO-C01735,South,Business,1099000,580,True,Current account | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01736,South,Self-employed,1906000,798,False,Credit card | Savings account,2,2026-03-31
+DEMO-C01737,West,Salaried,2171000,581,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01738,North,Self-employed,1940000,701,True,Current account | Savings account,2,2026-03-31
+DEMO-C01739,West,Self-employed,1608000,824,True,Auto loan | Business loan | Demat account | Fixed deposit | Personal loan | Savings account,6,2026-03-31
+DEMO-C01740,South,Salaried,828000,617,True,Auto loan | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01741,North,Business,1445000,656,True,Fixed deposit | Mutual fund | Personal loan | Savings account,4,2026-03-31
+DEMO-C01742,East,Salaried,2019000,566,True,Savings account,1,2026-03-31
+DEMO-C01743,North,Self-employed,2337000,780,True,Fixed deposit | Home loan | Savings account,3,2026-03-31
+DEMO-C01744,North,Salaried,1078000,602,False,Demat account | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01745,South,Self-employed,1102000,761,True,Savings account,1,2026-03-31
+DEMO-C01746,South,Business,2257000,681,True,Auto loan | Business loan | Savings account,3,2026-03-31
+DEMO-C01747,South,Business,831000,770,True,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01748,South,Salaried,2385000,778,True,Credit card | Demat account | Home loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01749,North,Salaried,1484000,735,True,Business loan | Credit card | Home loan | Personal loan | Savings account,5,2026-03-31
+DEMO-C01750,North,Salaried,1657000,614,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01751,South,Business,1170000,826,True,Current account | Demat account | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01752,West,Salaried,826000,661,False,Credit card | Home loan | Mutual fund | Savings account | Term insurance,5,2026-03-31
+DEMO-C01753,South,Salaried,2390000,659,True,Credit card | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01754,East,Salaried,1480000,688,True,Fixed deposit | Home loan | Personal loan | Savings account,4,2026-03-31
+DEMO-C01755,South,Salaried,1745000,729,False,Credit card | Mutual fund | Savings account,3,2026-03-31
+DEMO-C01756,North,Salaried,1708000,704,True,Mutual fund | Personal loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01757,North,Salaried,838000,590,True,Savings account,1,2026-03-31
+DEMO-C01758,North,Self-employed,532000,763,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01759,West,Salaried,1154000,749,False,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01760,West,Salaried,696000,592,False,Credit card | Fixed deposit | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01761,South,Self-employed,1089000,575,True,Fixed deposit | Personal loan | Savings account,3,2026-03-31
+DEMO-C01762,South,Salaried,420000,754,True,Current account | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01763,East,Self-employed,1511000,613,True,Demat account | Term insurance,2,2026-03-31
+DEMO-C01764,North,Salaried,707000,840,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01765,North,Salaried,499000,740,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01766,North,Business,2334000,806,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01767,West,Salaried,1190000,846,True,Credit card | Home loan | Savings account,3,2026-03-31
+DEMO-C01768,North,Business,441000,601,True,Credit card | Home loan | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01769,East,Self-employed,2022000,607,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01770,South,Self-employed,1269000,718,True,Credit card | Demat account | Mutual fund | Savings account,4,2026-03-31
+DEMO-C01771,West,Salaried,446000,698,True,Credit card | Personal loan | Savings account,3,2026-03-31
+DEMO-C01772,North,Salaried,1166000,800,True,Savings account,1,2026-03-31
+DEMO-C01773,South,Salaried,1875000,580,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01774,West,Salaried,484000,846,False,Personal loan | Savings account,2,2026-03-31
+DEMO-C01775,East,Salaried,1618000,711,True,Credit card | Fixed deposit | Savings account,3,2026-03-31
+DEMO-C01776,North,Salaried,1958000,728,True,Auto loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C01777,West,Business,601000,748,False,Personal loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01778,North,Salaried,1515000,572,True,Credit card | Demat account | Savings account,3,2026-03-31
+DEMO-C01779,South,Salaried,714000,795,True,Personal loan | Savings account | Term insurance,3,2026-03-31
+DEMO-C01780,North,Self-employed,1646000,662,True,Mutual fund | Savings account,2,2026-03-31
+DEMO-C01781,West,Salaried,796000,644,False,Business loan | Credit card | Fixed deposit | Savings account,4,2026-03-31
+DEMO-C01782,North,Salaried,1986000,612,True,Credit card | Demat account | Fixed deposit | Mutual fund | Savings account,5,2026-03-31
+DEMO-C01783,South,Salaried,1646000,793,True,Fixed deposit | Home loan | Savings account | Term insurance,4,2026-03-31
+DEMO-C01784,North,Salaried,2115000,621,True,Credit card | Demat account | Fixed deposit | Mutual fund,4,2026-03-31
+DEMO-C01785,North,Self-employed,2245000,774,True,Demat account | Mutual fund | Personal loan,3,2026-03-31
+DEMO-C01786,South,Business,1967000,830,True,Current account | Fixed deposit | Savings account | Term insurance,4,2026-03-31
+DEMO-C01787,South,Self-employed,1056000,631,True,Home loan | Personal loan | Savings account,3,2026-03-31
+DEMO-C01788,North,Salaried,1413000,648,True,Auto loan | Credit card | Personal loan | Savings account,4,2026-03-31
+DEMO-C01789,North,Salaried,1076000,598,True,Savings account | Term insurance,2,2026-03-31
+DEMO-C01790,North,Self-employed,1185000,788,False,Credit card | Home loan | Personal loan | Savings account | Term insurance,5,2026-03-31
+DEMO-C01791,North,Salaried,2039000,586,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01792,South,Salaried,706000,628,True,Credit card,1,2026-03-31
+DEMO-C01793,North,Salaried,2296000,774,True,Current account,1,2026-03-31
+DEMO-C01794,West,Business,1969000,762,False,Credit card | Current account | Personal loan | Savings account,4,2026-03-31
+DEMO-C01795,North,Self-employed,1710000,620,True,Credit card | Savings account,2,2026-03-31
+DEMO-C01796,East,Self-employed,2020000,693,False,Credit card | Savings account,2,2026-03-31
+DEMO-C01797,West,Salaried,532000,721,True,Home loan | Term insurance,2,2026-03-31
+DEMO-C01798,North,Salaried,1961000,809,True,Credit card | Demat account | Fixed deposit | Mutual fund | Personal loan | Savings account,6,2026-03-31
+DEMO-C01799,North,Salaried,575000,729,True,Fixed deposit | Savings account,2,2026-03-31
+DEMO-C01800,South,Business,2370000,644,True,Current account | Demat account | Fixed deposit | Home loan | Mutual fund | Savings account | Term insurance,7,2026-03-31
